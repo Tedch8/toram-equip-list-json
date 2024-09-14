@@ -1,0 +1,8673 @@
+[
+    {
+        "name": "1st Anniv Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            20,
+            12,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                1.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                8.0,
+                "Aggro %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box I",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10,
+                "Copper 1st Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "2nd Anniv Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                1.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                8.0,
+                "Aggro %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box II",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10,
+                "Bronze 2nd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            12,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                1.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                8.0,
+                "Aggro %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box III",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 1,
+            "diff": 25,
+            "mats": [
+                "Spina",
+                10,
+                "Bronze 3rd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                1.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                8.0,
+                "Aggro %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box IV",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 1,
+            "diff": 25,
+            "mats": [
+                "Spina",
+                1,
+                "Bronze 4th Anniv Medal",
+                5
+            ]
+        }
+    },
+    {
+        "name": "9th Anniv Shield",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "9th Anniv Shield II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "9th Anniv Shield III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "9th Anniv Shield IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "9th Anniv Shield V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "9th Anniv Shield VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Buckler",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Shell Mask",
+                4,
+                "Land Under Development",
+                []
+            ],
+            [
+                "Shell Mask",
+                5,
+                "Land Under Development",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Buckler",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                30.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                5,
+                "Animal Skin",
+                15,
+                "Cloth",
+                3
+            ]
+        }
+    },
+    {
+        "name": "Cake Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                250.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                10.0,
+                "Attack MP Recovery",
+                1.0,
+                "Neutral Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10,
+                "Cheese Cake",
+                1,
+                "Fruit Cake",
+                1,
+                "Chocolate Cake",
+                1,
+                "Ice Cream Cake",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Huge Heavy Shield",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10,
+            5,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                10.0,
+                "Guard Power %",
+                32.0,
+                "Guard Recharge %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "Excavated Golem",
+                16,
+                "Underground Ruins: Deepest Part",
+                []
+            ],
+            [
+                "Excavated Golem",
+                6,
+                "Underground Ruins: Deepest Part",
+                []
+            ],
+            [
+                "Excavated Golem",
+                26,
+                "Underground Ruins: Deepest Part",
+                []
+            ],
+            [
+                "Excavated Golem",
+                36,
+                "Underground Ruins: Deepest Part",
+                []
+            ],
+            [
+                "Excavated Golem",
+                56,
+                "Underground Ruins: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Light Shield",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10,
+            5,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "Helm Colon",
+                11,
+                "Strum Road",
+                []
+            ],
+            [
+                "Helm Colon",
+                13,
+                "Strum Road",
+                []
+            ],
+            [
+                "Helm Colon",
+                16,
+                "Marbaro Forest",
+                []
+            ],
+            [
+                "Helm Colon",
+                18,
+                "Marbaro Forest",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Light Shield",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10,
+            5,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                2.0,
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Small Wood",
+                20,
+                "Cloth",
+                15,
+                "Wood",
+                15
+            ]
+        }
+    },
+    {
+        "name": "Maton Shield",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0,
+                "Physical Barrier",
+                1000.0,
+                "Magic Barrier",
+                1000.0,
+                "Additional Melee %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Maton Sword",
+                133,
+                "Buried Tower: Entrance",
+                []
+            ],
+            [
+                "Maton Sword",
+                143,
+                "Buried Tower: Entrance",
+                []
+            ],
+            [
+                "Maton Sword",
+                153,
+                "Buried Tower: Entrance",
+                []
+            ],
+            [
+                "Maton Sword",
+                163,
+                "Buried Tower: Entrance",
+                []
+            ],
+            [
+                "Maton Sword",
+                183,
+                "Buried Tower: Entrance",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Mirror Shield",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                5.0,
+                "Evasion Recharge %",
+                10.0,
+                "Aggro %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Stone Mercenary",
+                60,
+                "Zoktzda Ruins : Abnormal Space",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Shampy Doll",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Cloth"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1500.0,
+                "Fractional Barrier %",
+                10.0,
+                "Barrier Cooldown %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Shampy",
+                135,
+                "Turnus Mine: Hall",
+                []
+            ],
+            [
+                "Shampy",
+                145,
+                "Turnus Mine: Hall",
+                []
+            ],
+            [
+                "Shampy",
+                155,
+                "Turnus Mine: Hall",
+                []
+            ],
+            [
+                "Shampy",
+                165,
+                "Turnus Mine: Hall",
+                []
+            ],
+            [
+                "Shampy",
+                185,
+                "Turnus Mine: Hall",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Shampy Doll",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Cloth"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0,
+                "Fractional Barrier %",
+                15.0,
+                "Barrier Cooldown %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1500,
+                "Shampy's Fluffy Hair",
+                5,
+                "Cloth",
+                1200,
+                "Metal",
+                300
+            ]
+        }
+    },
+    {
+        "name": "Spirit Shield Navida",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0,
+                "MaxHP %",
+                15.0,
+                "ASPD",
+                1000.0,
+                "Critical Rate",
+                10.0,
+                "Fractional Barrier %",
+                20.0
+            ],
+            "Event only": [
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0,
+                "MaxHP %",
+                15.0,
+                "ASPD",
+                1000.0,
+                "Critical Rate",
+                10.0,
+                "Fractional Barrier %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 125,
+            "diff": 130,
+            "mats": [
+                "Spina",
+                1000,
+                "Snow Cookie",
+                30,
+                "Snow Doll",
+                20,
+                "Xmas Star",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Zoe's Magic Book",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                -20.0,
+                "MaxMP",
+                100.0,
+                "MATK %",
+                1.0,
+                "CSPD",
+                100.0,
+                "Additional Magic %",
+                100.0,
+                "MATK DOWN (STR %)",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "Zoe",
+                100,
+                "Halloween Mansion Basement",
+                []
+            ],
+            [
+                "Zoe",
+                125,
+                "Halloween Mansion Basement",
+                []
+            ],
+            [
+                "Zoe",
+                150,
+                "Halloween Mansion Basement",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Coryn Memorial Shield",
+        "origin": 1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                30.0,
+                "Dark resistance %",
+                30.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0,
+                "Aggro %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10,
+                "Apple",
+                1,
+                "Colon Leaf",
+                2,
+                "Wood",
+                10,
+                "Medicine",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Hagoita",
+        "origin": 1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2000.0,
+                "CSPD %",
+                20.0,
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2022,
+                "Purro",
+                5,
+                "Osechi",
+                3,
+                "Wood",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Hero Shield (Pom)",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Ailment Resistance %",
+                -10.0,
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                30.0,
+                "Aggro %",
+                25.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Hero Potum (10M DL)",
+                150,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum Party (12M DL)",
+                180,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (12M DL)",
+                190,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (12M DL)",
+                200,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (12M DL)",
+                220,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (13M DL)",
+                190,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (13M DL)",
+                200,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (13M DL)",
+                210,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (13M DL)",
+                220,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum Party (12M DL)",
+                170,
+                "Archfiend's Throne",
+                []
+            ],
+            [
+                "Hero Potum (11M DL)",
+                220,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (10M DL)",
+                160,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (10M DL)",
+                170,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (10M DL)",
+                180,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (10M DL)",
+                200,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (11M DL)",
+                160,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (11M DL)",
+                170,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (11M DL)",
+                180,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum (11M DL)",
+                190,
+                "Sofya City: Government Office",
+                []
+            ],
+            [
+                "Hero Potum Party (13M DL)",
+                240,
+                "Archfiend's Throne",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Iron Shield",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                13.0,
+                "Guard Recharge %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Water Ghost",
+                31,
+                "Nehelo Swamp",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Iron Shield",
+        "origin": 1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                13.0,
+                "Guard Recharge %",
+                20.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Iron",
+                1,
+                "Chaos Stone",
+                5,
+                "Metal",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Juno Shield",
+        "origin": 1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Wind resistance %",
+                10.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                10.0,
+                "Motion Speed %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10,
+                "Red Wrapping Ribbon",
+                20,
+                "Bead Fragment",
+                10,
+                "Metal",
+                30
+            ]
+        }
+    },
+    {
+        "name": "Kite Shield",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            20,
+            10,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                30.0,
+                "Guard Power %",
+                22.0,
+                "Guard Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Guardian Statue",
+                22,
+                "Ruined Temple: Area 2",
+                []
+            ],
+            [
+                "Guardian Statue",
+                22,
+                "Ruined Temple: Area 3",
+                []
+            ],
+            [
+                "Guardian Statue",
+                23,
+                "Ruined Temple: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Kite Shield",
+        "origin": 1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            20,
+            10,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                90.0,
+                "Guard Power %",
+                22.0,
+                "Guard Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Sturdy Fur",
+                23,
+                "Nisel Wood",
+                2,
+                "Cloth",
+                25,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Shell Shield",
+        "origin": 2,
+        "base": 2.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                2.0,
+                "Guard Power %",
+                12.0,
+                "Guard Recharge %",
+                24.0,
+                "Aggro %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Tortuga",
+                40,
+                "Icule Lake",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hard Buckler",
+        "origin": 2,
+        "base": 3.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                2.0,
+                "Guard Power %",
+                17.0,
+                "Guard Recharge %",
+                17.0
+            ]
+        },
+        "source": [
+            [
+                "Ratia",
+                42,
+                "Korda Basin",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hard Buckler",
+        "origin": 1,
+        "base": 3.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                4.0,
+                "Guard Power %",
+                17.0,
+                "Guard Recharge %",
+                17.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                200,
+                "Dented Iron Plate",
+                35,
+                "Damaged Parchment",
+                15,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Relic Shield",
+        "origin": 2,
+        "base": 3.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                1.0,
+                "Accuracy",
+                5.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                22.0
+            ]
+        },
+        "source": [
+            [
+                "Ruin Golem",
+                45,
+                "Zoktzda ruins : Reversed Hall",
+                []
+            ],
+            [
+                "Ruin Golem",
+                35,
+                "Zoktzda ruins : Reversed Hall",
+                []
+            ],
+            [
+                "Ruin Golem",
+                55,
+                "Zoktzda ruins : Reversed Hall",
+                []
+            ],
+            [
+                "Ruin Golem",
+                65,
+                "Zoktzda ruins : Reversed Hall",
+                []
+            ],
+            [
+                "Ruin Golem",
+                85,
+                "Zoktzda ruins : Reversed Hall",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ooze Shield",
+        "origin": 2,
+        "base": 4.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            45,
+            22,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                10.0,
+                "Magic Resistance %",
+                2.0,
+                "Guard Power %",
+                23.0,
+                "Guard Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Ooze",
+                52,
+                "Lutaros Cavern: Deepest Part",
+                []
+            ],
+            [
+                "Ooze",
+                42,
+                "Lutaros Cavern: Deepest Part",
+                []
+            ],
+            [
+                "Ooze",
+                62,
+                "Lutaros Cavern: Deepest Part",
+                []
+            ],
+            [
+                "Ooze",
+                72,
+                "Lutaros Cavern: Deepest Part",
+                []
+            ],
+            [
+                "Ooze",
+                92,
+                "Lutaros Cavern: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ooze Shield",
+        "origin": 1,
+        "base": 4.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            45,
+            22,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                2.0,
+                "Magic Resistance %",
+                1.0,
+                "Guard Power %",
+                23.0,
+                "Guard Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                450,
+                "Emerald Stone",
+                1,
+                "Fluorescent Pond Water",
+                25,
+                "Beast",
+                350,
+                "Mana",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Ooze Shield",
+        "origin": 2,
+        "base": 4.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            45,
+            22,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                2.0,
+                "Magic Resistance %",
+                4.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                23.0
+            ]
+        },
+        "source": [
+            [
+                "Ooze (Megiston 2016)",
+                100,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "1st Anniv Shield II",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "Guard Power %",
+                27.0,
+                "Guard Recharge %",
+                9.0,
+                "Aggro %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Silver 1st Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "2nd Anniv Shield II",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "Guard Power %",
+                27.0,
+                "Guard Recharge %",
+                9.0,
+                "Aggro %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Silver 2nd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield II",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "Guard Power %",
+                27.0,
+                "Guard Recharge %",
+                9.0,
+                "Aggro %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 25,
+            "diff": 50,
+            "mats": [
+                "Spina",
+                100,
+                "Silver 3rd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield II",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "Guard Power %",
+                27.0,
+                "Guard Recharge %",
+                9.0,
+                "Aggro %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 25,
+            "diff": 50,
+            "mats": [
+                "Spina",
+                10,
+                "Bronze 4th Anniv Medal",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Porcupine Quills Shield",
+        "origin": 2,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            170,
+            85,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                1.0,
+                "Physical Pierce %",
+                3.0,
+                "Critical Damage",
+                2.0,
+                "Fire resistance %",
+                -25.0,
+                "Earth resistance %",
+                25.0,
+                "Guard Power %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "Tuscog",
+                159,
+                "Eryldan Street: Near the Forest of Ein",
+                []
+            ],
+            [
+                "Tuscog",
+                169,
+                "Eryldan Street: Near the Forest of Ein",
+                []
+            ],
+            [
+                "Tuscog",
+                179,
+                "Eryldan Street: Near the Forest of Ein",
+                []
+            ],
+            [
+                "Tuscog",
+                189,
+                "Eryldan Street: Near the Forest of Ein",
+                []
+            ],
+            [
+                "Tuscog",
+                209,
+                "Eryldan Street: Near the Forest of Ein",
+                []
+            ],
+            [
+                "Tuscog (Megiston 2021)",
+                200,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Porcupine Quills Shield",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            170,
+            85,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                1.0,
+                "Physical Pierce %",
+                1.0,
+                "Critical Damage",
+                1.0,
+                "Fire resistance %",
+                -25.0,
+                "Earth resistance %",
+                25.0,
+                "Guard Power %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1700,
+                "Tuscog Claw",
+                1,
+                "Mottled Quill",
+                1,
+                "Beast",
+                1000,
+                "Metal",
+                700
+            ]
+        }
+    },
+    {
+        "name": "Red Steel Buckler",
+        "origin": 2,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Dodge",
+                50.0,
+                "ASPD",
+                300.0,
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Red Steel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scale Shield",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                25.0,
+                "Aggro %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Thick Green Scale",
+                15,
+                "Crystal Powder",
+                20,
+                "Beast",
+                90,
+                "Wood",
+                35
+            ]
+        }
+    },
+    {
+        "name": "Scale Shield",
+        "origin": 2,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                25.0,
+                "Aggro %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "Planet Head (Green)",
+                62,
+                "Gate to Another World: Area 1",
+                []
+            ],
+            [
+                "Planet Head (Green)",
+                64,
+                "Gate to Another World: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sugar Cookie",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            390,
+            190,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Light resistance %",
+                25.0,
+                "Ailment Resistance %",
+                5.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                45.0,
+                "Reduce Dmg (Floor) %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                666,
+                "Trick Topaz",
+                30
+            ]
+        }
+    },
+    {
+        "name": "Relief Shield",
+        "origin": 2,
+        "base": 6.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            55,
+            27,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                300.0,
+                "Dark resistance %",
+                5.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "Demon's Gate",
+                60,
+                "Saham Crater",
+                []
+            ],
+            [
+                "Demon's Gate",
+                50,
+                "Saham Crater",
+                []
+            ],
+            [
+                "Demon's Gate",
+                70,
+                "Saham Crater",
+                []
+            ],
+            [
+                "Demon's Gate",
+                80,
+                "Saham Crater",
+                []
+            ],
+            [
+                "Demon's Gate",
+                100,
+                "Saham Crater",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Relief Shield",
+        "origin": 1,
+        "base": 6.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            55,
+            27,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Dark resistance %",
+                1.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                550,
+                "Goddess Sculpture",
+                3,
+                "Eerie Stone",
+                10,
+                "Metal",
+                350,
+                "Beast",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Albero Shield",
+        "origin": 2,
+        "base": 7.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            60,
+            30,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "MaxHP",
+                200.0,
+                "Guard Power %",
+                18.0,
+                "Guard Recharge %",
+                18.0
+            ]
+        },
+        "source": [
+            [
+                "Jelfy",
+                69,
+                "Teaus Hill",
+                []
+            ],
+            [
+                "Jelfy",
+                67,
+                "Teaus Hill",
+                []
+            ],
+            [
+                "Jelfy",
+                70,
+                "Teaus Hill: Marshland",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Albero Shield",
+        "origin": 1,
+        "base": 7.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            60,
+            30,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "MaxHP",
+                300.0,
+                "Guard Power %",
+                18.0,
+                "Guard Recharge %",
+                18.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Iron Hat Fragment",
+                6,
+                "Soft Twig",
+                30,
+                "Wood",
+                100,
+                "Metal",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Marble Shield",
+        "origin": 2,
+        "base": 9.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                12.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Pillar Golem",
+                70,
+                "Lost Town: Magic Barrier",
+                []
+            ],
+            [
+                "Pillar Golem",
+                60,
+                "Lost Town: Magic Barrier",
+                []
+            ],
+            [
+                "Pillar Golem",
+                80,
+                "Lost Town: Magic Barrier",
+                []
+            ],
+            [
+                "Pillar Golem",
+                90,
+                "Lost Town: Magic Barrier",
+                []
+            ],
+            [
+                "Pillar Golem",
+                110,
+                "Lost Town: Magic Barrier",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Marble Shield",
+        "origin": 1,
+        "base": 9.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                6.0,
+                "Attack MP Recovery",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                700,
+                "Pillar Golem Magic Lantern",
+                1,
+                "Shining Copper Ore",
+                3,
+                "Metal",
+                500,
+                "Wood",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Marble Shield",
+        "origin": 2,
+        "base": 9.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                24.0,
+                "Attack MP Recovery",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "Pillar Golem (Megiston 2018)",
+                140,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Shell Buckler",
+        "origin": 1,
+        "base": 9.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Accuracy %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                7.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Ancient Shell",
+                10,
+                "Snake Scale",
+                25,
+                "Metal",
+                125,
+                "Cloth",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Shell Buckler",
+        "origin": 2,
+        "base": 9.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                1.0,
+                "Accuracy %",
+                8.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                7.0
+            ]
+        },
+        "source": [
+            [
+                "Chandler",
+                67,
+                "Calle mort",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "1st Anniv Shield III",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Aggro %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Gold 1st Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "2nd Anniv Shield III",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Aggro %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Gold 2nd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield III",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            37,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Aggro %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 50,
+            "diff": 75,
+            "mats": [
+                "Spina",
+                1000,
+                "Gold 3rd Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield III",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Aggro %",
+                9.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 50,
+            "diff": 75,
+            "mats": [
+                "Spina",
+                100,
+                "Bronze 4th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                3.0,
+                "Physical Resistance %",
+                3.0,
+                "Magic Resistance %",
+                3.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box V",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 25,
+            "diff": 75,
+            "mats": [
+                "Spina",
+                100,
+                "Bronze 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "Coffin Shield",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MATK",
+                30.0,
+                "Dark resistance %",
+                15.0,
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Pumpkin Diamond",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Cross Shield",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                3.0,
+                "Magic Resistance %",
+                1.0,
+                "Guard Power %",
+                19.0,
+                "Guard Recharge %",
+                19.0
+            ]
+        },
+        "source": [
+            [
+                "Corroded Knight",
+                72,
+                "Dark Wasteland",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Cross Shield",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                6.0,
+                "Magic Resistance %",
+                2.0,
+                "Guard Power %",
+                19.0,
+                "Guard Recharge %",
+                19.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                400,
+                "Glossy Skin",
+                35,
+                "Glittering Powder",
+                22,
+                "Metal",
+                150,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Black Shield of Delusion",
+        "origin": 2,
+        "base": 11.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage",
+                4.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                32.0,
+                "Neutral Resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Black Knight of Delusion",
+                88,
+                "Abyss of No Return: Deepest Area",
+                []
+            ],
+            [
+                "Black Knight of Delusion",
+                78,
+                "Abyss of No Return: Deepest Area",
+                []
+            ],
+            [
+                "Black Knight of Delusion",
+                98,
+                "Abyss of No Return: Deepest Area",
+                []
+            ],
+            [
+                "Black Knight of Delusion",
+                108,
+                "Abyss of No Return: Deepest Area",
+                []
+            ],
+            [
+                "Black Knight of Delusion",
+                128,
+                "Abyss of No Return: Deepest Area",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Black Shield Of Delusion",
+        "origin": 1,
+        "base": 11.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage",
+                2.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                32.0,
+                "Neutral Resistance %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                800,
+                "Evil Energy of Delusion",
+                2,
+                "Fractured Magic Armor",
+                6,
+                "Metal",
+                500,
+                "Beast",
+                250
+            ]
+        }
+    },
+    {
+        "name": "Vulcan Shield",
+        "origin": 2,
+        "base": 11.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                6.0,
+                "ASPD",
+                250.0,
+                "Critical Rate",
+                12.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                35.0
+            ]
+        },
+        "source": [
+            [
+                "Ifrid",
+                112,
+                "Blazing Graben: Deepest Part",
+                []
+            ],
+            [
+                "Ifrid",
+                102,
+                "Blazing Graben: Deepest Part",
+                []
+            ],
+            [
+                "Ifrid",
+                122,
+                "Blazing Graben: Deepest Part",
+                []
+            ],
+            [
+                "Ifrid",
+                132,
+                "Blazing Graben: Deepest Part",
+                []
+            ],
+            [
+                "Ifrid",
+                152,
+                "Blazing Graben: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Vulcan Shield",
+        "origin": 1,
+        "base": 11.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                16.0,
+                "ASPD",
+                250.0,
+                "Critical Rate",
+                8.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                35.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1100,
+                "Ifrid's Robot Leg",
+                2,
+                "Ifrid's Heated Horn",
+                4,
+                "Beast",
+                1000,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield",
+        "origin": 1,
+        "base": 12.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            85,
+            42,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                4.0,
+                "Physical Resistance %",
+                7.0,
+                "Magic Resistance %",
+                7.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                10.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box VI",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                170,
+                "Bronze 6th Anniv Medal",
+                20,
+                "Metal",
+                110
+            ]
+        }
+    },
+    {
+        "name": "Indigo Shield",
+        "origin": 2,
+        "base": 14.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage",
+                1.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                24.0
+            ]
+        },
+        "source": [
+            [
+                "Corroded Shielder",
+                91,
+                "Dark Manor: Area 1",
+                []
+            ],
+            [
+                "Corroded Shielder",
+                91,
+                "Dark Manor: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Indigo Shield",
+        "origin": 1,
+        "base": 14.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage",
+                2.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                24.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                450,
+                "Anti-Rust Oil",
+                10,
+                "Jet-Black Shield Fragment",
+                25,
+                "Metal",
+                125,
+                "Beast",
+                100
+            ]
+        }
+    },
+    {
+        "name": "2nd Anniv Shield IV",
+        "origin": 1,
+        "base": 16.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            95,
+            47,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                4.0,
+                "Guard Power %",
+                33.0,
+                "Guard Recharge %",
+                11.0,
+                "Aggro %",
+                12.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Silpom 2nd Anniv Medal",
+                20,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield IV",
+        "origin": 1,
+        "base": 16.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            47,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                4.0,
+                "Guard Power %",
+                33.0,
+                "Guard Recharge %",
+                11.0,
+                "Aggro %",
+                12.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 75,
+            "diff": 100,
+            "mats": [
+                "Spina",
+                2000,
+                "Pom 3rd Anniv Medal",
+                20,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield IV",
+        "origin": 1,
+        "base": 16.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            95,
+            47,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                4.0,
+                "Guard Power %",
+                33.0,
+                "Guard Recharge %",
+                11.0,
+                "Aggro %",
+                12.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 75,
+            "diff": 100,
+            "mats": [
+                "Spina",
+                200,
+                "Silver 4th Anniv Medal",
+                20,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Spike Shield",
+        "origin": 1,
+        "base": 18.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                35.0,
+                "Aggro %",
+                10.0,
+                "Weapon ATK %",
+                10.0,
+                "Reflect %",
+                10.0,
+                "Additional Melee %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Peligro Wood",
+                15,
+                "Hard Stone Horn",
+                30,
+                "Beast",
+                150,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Spike Shield",
+        "origin": 2,
+        "base": 18.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                35.0,
+                "Aggro %",
+                10.0,
+                "Weapon ATK %",
+                10.0,
+                "Reflect %",
+                10.0,
+                "Additional Melee %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Demi Ork",
+                98,
+                "Sykea Deep Valley",
+                []
+            ],
+            [
+                "Demi Ork",
+                100,
+                "Sykea Deep Valley",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark General's Shield",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                2.0,
+                "Dark resistance %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Imitator",
+                106,
+                "Plastida: Deepest Part",
+                []
+            ],
+            [
+                "Imitator",
+                96,
+                "Plastida: Deepest Part",
+                []
+            ],
+            [
+                "Imitator",
+                116,
+                "Plastida: Deepest Part",
+                []
+            ],
+            [
+                "Imitator",
+                126,
+                "Plastida: Deepest Part",
+                []
+            ],
+            [
+                "Imitator",
+                146,
+                "Plastida: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark General's Shield",
+        "origin": 1,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                3.0,
+                "Dark resistance %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Fake General's Helm",
+                1,
+                "High-Purity Magic Crystal",
+                1,
+                "Metal",
+                500,
+                "Beast",
+                500
+            ]
+        }
+    },
+    {
+        "name": "Phalanx (Shield)",
+        "origin": -1,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Aggro %",
+                20.0,
+                "Physical Barrier",
+                1500.0,
+                "Magic Barrier",
+                1500.0,
+                "Barrier Cooldown %",
+                25.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "2nd Anniv Shield V",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                12.0,
+                "Aggro %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                4000,
+                "Golpom 2nd Anniv Medal",
+                20,
+                "Metal",
+                200
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield V",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                12.0,
+                "Aggro %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 95,
+            "diff": 125,
+            "mats": [
+                "Spina",
+                3000,
+                "Bropom 3rd Anniv Medal",
+                20,
+                "Metal",
+                150
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield V",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                12.0,
+                "Aggro %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 95,
+            "diff": 125,
+            "mats": [
+                "Spina",
+                300,
+                "Gold 4th Anniv Medal",
+                20,
+                "Metal",
+                150
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield II",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                5.0,
+                "Physical Resistance %",
+                5.0,
+                "Magic Resistance %",
+                5.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                12.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 75,
+            "diff": 120,
+            "mats": [
+                "Spina",
+                190,
+                "Silver 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "Imperial Shield",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -5.0,
+                "Magic Resistance %",
+                20.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                16.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                550,
+                "Shiny Shell",
+                30,
+                "Steel Mask",
+                5,
+                "Metal",
+                250,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Moonlight Shield",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            155,
+            77,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                25.0,
+                "Fire resistance %",
+                15.0,
+                "Magic Barrier",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                158,
+                "Moonlit Night Pyroxene",
+                10,
+                "Moonlight Crab Butter",
+                1,
+                "Metal",
+                200,
+                "Mana",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Bullet Shield",
+        "origin": 2,
+        "base": 25.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                19.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Bullet) %",
+                10.0,
+                "Reduce Dmg (Bowling) %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Death Media",
+                112,
+                "Ultimea City: Roof",
+                []
+            ],
+            [
+                "Death Media",
+                114,
+                "Ultimea City: Roof",
+                []
+            ],
+            [
+                "Death Media",
+                125,
+                "Suburb of Droma Square: Area 1",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bullet Shield",
+        "origin": 1,
+        "base": 25.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                19.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Bullet) %",
+                12.0,
+                "Reduce Dmg (Bowling) %",
+                12.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                600,
+                "Huge Carapace",
+                30,
+                "Huge Iron Wheel",
+                30,
+                "Metal",
+                200,
+                "Cloth",
+                100
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield II",
+        "origin": 1,
+        "base": 26.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Physical Resistance %",
+                8.0,
+                "Magic Resistance %",
+                8.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                12.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                240,
+                "Silver 6th Anniv Medal",
+                20,
+                "Metal",
+                145
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield",
+        "origin": 1,
+        "base": 26.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                4.0,
+                "Physical Resistance %",
+                8.0,
+                "Magic Resistance %",
+                8.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                16.0,
+                "Aggro %",
+                16.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                4.0,
+                "Physical Resistance %",
+                8.0,
+                "Magic Resistance %",
+                8.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                16.0,
+                "Aggro %",
+                16.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Anniv Equipment Box VII",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 1,
+            "diff": 140,
+            "mats": [
+                "Spina",
+                240,
+                "Bronze 7th Anniv Medal",
+                20,
+                "Metal",
+                31
+            ]
+        }
+    },
+    {
+        "name": "Imperial Shield",
+        "origin": 2,
+        "base": 26.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -2.0,
+                "Magic Resistance %",
+                15.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                16.0
+            ]
+        },
+        "source": [
+            [
+                "Underground Nemico",
+                109,
+                "Ultimea Sewer: Southeast",
+                []
+            ],
+            [
+                "Underground Nemico",
+                111,
+                "Ultimea Sewer: Southeast",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sapphire Shield",
+        "origin": 2,
+        "base": 28.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                10.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                30.0,
+                "Evasion Recharge %",
+                10.0,
+                "Physical Barrier",
+                1000.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Sapphire Roga",
+                171,
+                "Avant Plastida: Deepest Area",
+                []
+            ],
+            [
+                "Sapphire Roga",
+                181,
+                "Avant Plastida: Deepest Area",
+                []
+            ],
+            [
+                "Sapphire Roga",
+                191,
+                "Avant Plastida: Deepest Area",
+                []
+            ],
+            [
+                "Sapphire Roga",
+                201,
+                "Avant Plastida: Deepest Area",
+                []
+            ],
+            [
+                "Sapphire Roga",
+                221,
+                "Avant Plastida: Deepest Area",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sapphire Shield",
+        "origin": 1,
+        "base": 28.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                5.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                25.0,
+                "Evasion Recharge %",
+                1.0,
+                "Physical Barrier",
+                100.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1800,
+                "Floating Corroded Crystal Bit",
+                2,
+                "Sapphire Roga Horns",
+                2,
+                "Metal",
+                1000,
+                "Beast",
+                800
+            ]
+        }
+    },
+    {
+        "name": "3rd Anniv Shield VI",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                18.0,
+                "Fractional Barrier %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 110,
+            "diff": 140,
+            "mats": [
+                "Spina",
+                4000,
+                "Silpom 3rd Anniv Medal",
+                20,
+                "Metal",
+                200
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield VI",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                18.0,
+                "Fractional Barrier %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 110,
+            "diff": 140,
+            "mats": [
+                "Spina",
+                400,
+                "Pom 4th Anniv Medal",
+                20,
+                "Metal",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Elfin Shield",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Dodge %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                20.0,
+                "Neutral Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Molemet",
+                117,
+                "Tolbas GrassLand",
+                []
+            ],
+            [
+                "Molemet",
+                129,
+                "Turnus Mine: Area 1",
+                []
+            ],
+            [
+                "Molemet",
+                131,
+                "Turnus Mine: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Elfin Shield",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Dodge %",
+                5.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                20.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                650,
+                "Potum Top Fin",
+                15,
+                "White Wood",
+                25,
+                "Wood",
+                250,
+                "Metal",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Zahhak Shield",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                5.0,
+                "Critical Damage",
+                6.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                24.0,
+                "Fractional Barrier %",
+                6.0,
+                "Magic Barrier",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Zahhak Machina",
+                120,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                130,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                140,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                150,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                170,
+                "Lufenas Mansion: Hall",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Zahhak Shield",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Critical Damage",
+                3.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                24.0,
+                "Fractional Barrier %",
+                2.0,
+                "Magic Barrier",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1300,
+                "Twin Head Dragon Heart",
+                1,
+                "Twin Head Dragon Claw",
+                3,
+                "Metal",
+                900,
+                "Beast",
+                400
+            ]
+        }
+    },
+    {
+        "name": "Zahhak Shield",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            131,
+            66,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Critical Damage",
+                3.0,
+                "Guard Power %",
+                26.0,
+                "Guard Recharge %",
+                26.0,
+                "Fractional Barrier %",
+                9.0,
+                "Magic Barrier",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "Zahhak Machina (Megiston 2019)",
+                165,
+                "Event",
+                [
+                    "#",
+                    "#26004D",
+                    "#"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Esca Shield",
+        "origin": 2,
+        "base": 34.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            140,
+            70,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                31.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                30.0,
+                "Reduce Dmg (Straight Line) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Hermit Doll",
+                133,
+                "Heresy Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Esca Shield",
+        "origin": 1,
+        "base": 34.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            140,
+            70,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                31.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                30.0,
+                "Reduce Dmg (Straight Line) %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                700,
+                "Young Thick Branch",
+                15,
+                "Frozen Fir Tree",
+                15,
+                "Wood",
+                250,
+                "Metal",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 35.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                1.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                20.0,
+                "Short Range Damage %",
+                1.0,
+                "Reduce Dmg (Player Epicenter) %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "3rd Anniv Shield VII",
+        "origin": 1,
+        "base": 36.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            72,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                21.0,
+                "Fractional Barrier %",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 130,
+            "diff": 155,
+            "mats": [
+                "Spina",
+                5000,
+                "Golpom 3rd Anniv Medal",
+                20,
+                "Metal",
+                250
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield VII",
+        "origin": 1,
+        "base": 36.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                21.0,
+                "Fractional Barrier %",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 130,
+            "diff": 155,
+            "mats": [
+                "Spina",
+                500,
+                "Bropom 4th Anniv Medal",
+                20,
+                "Metal",
+                250
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield III",
+        "origin": 1,
+        "base": 36.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                7.0,
+                "Physical Resistance %",
+                7.0,
+                "Magic Resistance %",
+                7.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 110,
+            "diff": 155,
+            "mats": [
+                "Spina",
+                260,
+                "Gold 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield III",
+        "origin": 1,
+        "base": 39.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                6.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                13.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Gold 6th Anniv Medal",
+                20,
+                "Metal",
+                175
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield II",
+        "origin": 1,
+        "base": 39.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                6.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                18.0,
+                "Aggro %",
+                18.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                6.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                18.0,
+                "Aggro %",
+                18.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 77,
+            "diff": 170,
+            "mats": [
+                "Spina",
+                300,
+                "Silver 7th Anniv Medal",
+                20,
+                "Metal",
+                107
+            ]
+        }
+    },
+    {
+        "name": "8th Anniv Shield",
+        "origin": 1,
+        "base": 39.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                6.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                18.0,
+                "Aggro %",
+                18.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                6.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                18.0,
+                "Aggro %",
+                18.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                280,
+                "Bronze 8th Anniv Medal",
+                20,
+                "Metal",
+                30
+            ]
+        }
+    },
+    {
+        "name": "Harmony Shield",
+        "origin": 1,
+        "base": 39.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                13.0,
+                "Magic Resistance %",
+                13.0,
+                "Guard Power %",
+                26.0,
+                "Guard Recharge %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Insect Energy",
+                10,
+                "Processed Iron Plate",
+                25,
+                "Metal",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Lil Empress Shield",
+        "origin": 2,
+        "base": 40.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                30.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Coenubia (YK Wifey)",
+                140,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                150,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                160,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                170,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                190,
+                "Ultimea Palace: Throne",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Snow Bear Shield",
+        "origin": 2,
+        "base": 40.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Water resistance %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                40.0,
+                "Reduce Dmg (Charge) %",
+                20.0,
+                "Aggro %",
+                -50.0
+            ],
+            "Staff only": [
+                "Water resistance %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                20.0,
+                "Aggro %",
+                40.0,
+                "Reduce Dmg (Charge) %",
+                20.0,
+                "Aggro %",
+                -50.0
+            ]
+        },
+        "source": [
+            [
+                "Snow Bear Box",
+                null,
+                "Snowball Mini Game Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Harmony Shield",
+        "origin": 2,
+        "base": 41.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                26.0,
+                "Guard Recharge %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "Roca",
+                155,
+                "Eryldan Street: Area 1",
+                []
+            ],
+            [
+                "Roca",
+                156,
+                "Eryldan Street: Area 2",
+                []
+            ],
+            [
+                "Roca",
+                156,
+                "Eryldan Street: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "4th Anniv Shield VIII",
+        "origin": 1,
+        "base": 45.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Aggro %",
+                24.0,
+                "Fractional Barrier %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 145,
+            "diff": 170,
+            "mats": [
+                "Spina",
+                600,
+                "Silpom 4th Anniv Medal",
+                20,
+                "Metal",
+                300
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield IV",
+        "origin": 1,
+        "base": 45.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                8.0,
+                "Physical Resistance %",
+                8.0,
+                "Magic Resistance %",
+                8.0,
+                "Guard Power %",
+                38.0,
+                "Guard Recharge %",
+                13.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 145,
+            "diff": 170,
+            "mats": [
+                "Spina",
+                290,
+                "Pom 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "Holy Shield",
+        "origin": 1,
+        "base": 45.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                15.0,
+                "Magic Resistance %",
+                10.0,
+                "Dark resistance %",
+                10.0,
+                "Guard Power %",
+                13.0,
+                "Guard Recharge %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                800,
+                "Gray Crystal Ore",
+                25,
+                "Dazzling Ruff",
+                15,
+                "Metal",
+                300,
+                "Cloth",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Holy Shield",
+        "origin": 2,
+        "base": 45.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                20.0,
+                "Magic Resistance %",
+                8.0,
+                "Dark resistance %",
+                7.0,
+                "Guard Power %",
+                13.0,
+                "Guard Recharge %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "Sandsaur",
+                165,
+                "Inanis Wilderness",
+                []
+            ],
+            [
+                "Sandsaur",
+                163,
+                "Inanis Wilderness",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Juno Shield II",
+        "origin": 2,
+        "base": 50.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Wind resistance %",
+                15.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                20.0,
+                "Motion Speed %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Eidenliebe (Dark)",
+                180,
+                "Maia Diela",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Swirly Whirly Shield",
+        "origin": 2,
+        "base": 50.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                30.0,
+                "Aggro %",
+                -30.0
+            ]
+        },
+        "source": [
+            [
+                "Liqueur Potum",
+                123,
+                "Creme Cliff (Valentine's Day Event)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Catafnia Shield",
+        "origin": 2,
+        "base": 51.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            170,
+            85,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Guard Power %",
+                34.0,
+                "Guard Recharge %",
+                20.0,
+                "Anticipate %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "Guard Colon",
+                173,
+                "Rokoko City Ruins",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Catafnia Shield",
+        "origin": 1,
+        "base": 51.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            170,
+            85,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Guard Power %",
+                34.0,
+                "Guard Recharge %",
+                20.0,
+                "Anticipate %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                850,
+                "Black Obsidian",
+                4,
+                "Kappa's Plate",
+                20,
+                "Metal",
+                275,
+                "Wood",
+                150
+            ]
+        }
+    },
+    {
+        "name": "4th Anniv Shield IX",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                5.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                27.0,
+                "Fractional Barrier %",
+                8.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 160,
+            "diff": 185,
+            "mats": [
+                "Spina",
+                700,
+                "Golpom 4th Anniv Medal",
+                20,
+                "Metal",
+                350
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield V",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                9.0,
+                "Physical Resistance %",
+                9.0,
+                "Magic Resistance %",
+                9.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 160,
+            "diff": 185,
+            "mats": [
+                "Spina",
+                320,
+                "Bropom 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield IV",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                14.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Bropom 6th Anniv Medal",
+                20,
+                "Metal",
+                200
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield III",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                20.0,
+                "Aggro %",
+                20.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                20.0,
+                "Aggro %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 145,
+            "diff": 195,
+            "mats": [
+                "Spina",
+                350,
+                "Gold 7th Anniv Medal",
+                20,
+                "Metal",
+                175
+            ]
+        }
+    },
+    {
+        "name": "8th Anniv Shield II",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                20.0,
+                "Aggro %",
+                20.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                14.0,
+                "Aggro %",
+                20.0,
+                "Aggro %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                330,
+                "Silver 8th Anniv Medal",
+                20,
+                "Metal",
+                140
+            ]
+        }
+    },
+    {
+        "name": "Seadevil Shield",
+        "origin": 2,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                25.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0,
+                "Aggro %",
+                25.0,
+                "Additional Melee %",
+                25.0,
+                "Reduce Dmg (Meteor) %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Adaro",
+                160,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro",
+                170,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro",
+                180,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro",
+                190,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro",
+                210,
+                "Underwater Ruins: Deepest",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Seadevil Shield",
+        "origin": 2,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                50.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0,
+                "Aggro %",
+                50.0,
+                "Additional Melee %",
+                50.0,
+                "Reduce Dmg (Meteor) %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Adaro (High Difficulty)",
+                200,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro (High Difficulty)",
+                210,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro (High Difficulty)",
+                220,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro (High Difficulty)",
+                230,
+                "Underwater Ruins: Deepest",
+                []
+            ],
+            [
+                "Adaro (High Difficulty)",
+                250,
+                "Underwater Ruins: Deepest",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                2.0,
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0,
+                "Short Range Damage %",
+                1.0,
+                "Reduce Dmg (Player Epicenter) %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Heart Cookie Shield",
+        "origin": 1,
+        "base": 57.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Water resistance %",
+                -10.0,
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                40.0,
+                "Fractional Barrier %",
+                10.0,
+                "Guard Break %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                180,
+                "Cake Flour",
+                25,
+                "Amezaiku Wings",
+                10,
+                "Cute Ornament String",
+                5,
+                "Wood",
+                180
+            ]
+        }
+    },
+    {
+        "name": "Reptilian Shield",
+        "origin": 2,
+        "base": 57.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                25.0,
+                "Magic Barrier",
+                2000.0,
+                "Guard Break %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Obsidian Lizard",
+                177,
+                "Noisy Woodland",
+                []
+            ],
+            [
+                "Obsidian Lizard",
+                180,
+                "Noisy Woodland",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Reptilian Shield",
+        "origin": 1,
+        "base": 57.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                25.0,
+                "Magic Barrier",
+                1500.0,
+                "Guard Break %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                900,
+                "Hard Wood Board",
+                25,
+                "Speckled Egg",
+                15,
+                "Metal",
+                250,
+                "Beast",
+                200
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield VI",
+        "origin": 1,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            185,
+            92,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 175,
+            "diff": 200,
+            "mats": [
+                "Spina",
+                350,
+                "Silpom 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "Laguna Shield",
+        "origin": 2,
+        "base": 63.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            190,
+            95,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                12.0,
+                "Water resistance %",
+                12.0,
+                "Guard Power %",
+                16.0,
+                "Guard Recharge %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "Mogkey",
+                187,
+                "Eumano Glade",
+                []
+            ],
+            [
+                "Mogkey",
+                189,
+                "Eumano Glade",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Laguna Shield",
+        "origin": 1,
+        "base": 63.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            190,
+            95,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                14.0,
+                "Water resistance %",
+                14.0,
+                "Guard Power %",
+                16.0,
+                "Guard Recharge %",
+                40.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                950,
+                "Armorlike Feather",
+                10,
+                "Rock-Hard Carapace",
+                35,
+                "Metal",
+                300,
+                "Wood",
+                175
+            ]
+        }
+    },
+    {
+        "name": "5th Anniv Shield VII",
+        "origin": 1,
+        "base": 66.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                11.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                39.0,
+                "Guard Recharge %",
+                14.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 185,
+            "diff": 210,
+            "mats": [
+                "Spina",
+                370,
+                "Golpom 5th Anniv Medal",
+                20
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield V",
+        "origin": 1,
+        "base": 66.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                15.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                390,
+                "Silpom 6th Anniv Medal",
+                20,
+                "Metal",
+                220
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield IV",
+        "origin": 1,
+        "base": 66.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                22.0,
+                "Aggro %",
+                22.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                22.0,
+                "Aggro %",
+                22.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 175,
+            "diff": 215,
+            "mats": [
+                "Spina",
+                390,
+                "Bropom 7th Anniv Medal",
+                20,
+                "Metal",
+                205
+            ]
+        }
+    },
+    {
+        "name": "8th Anniv Shield III",
+        "origin": 1,
+        "base": 66.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                22.0,
+                "Aggro %",
+                22.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                7.0,
+                "Physical Resistance %",
+                11.0,
+                "Magic Resistance %",
+                11.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                22.0,
+                "Aggro %",
+                22.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                370,
+                "Gold 8th Anniv Medal",
+                20,
+                "Metal",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Demon Empress Shield",
+        "origin": 2,
+        "base": 66.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MDEF %",
+                10.0,
+                "Critical Rate",
+                15.0,
+                "Guard Power %",
+                28.0,
+                "Guard Recharge %",
+                28.0,
+                "Fractional Barrier %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Metacoenubia",
+                185,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                195,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                205,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                215,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                235,
+                "Neo Plastida",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Luster Shield",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            200,
+            100,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Guard Power %",
+                28.0,
+                "Guard Recharge %",
+                29.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Hardened Eggshell",
+                25,
+                "Mutated Outer Shell",
+                25,
+                "Metal",
+                450,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Luster Shield",
+        "origin": 2,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            200,
+            100,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Guard Power %",
+                28.0,
+                "Guard Recharge %",
+                29.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Eyeloon",
+                208,
+                "Freight Corridor",
+                []
+            ],
+            [
+                "Eyeloon",
+                210,
+                "Freight Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2000.0,
+                "Physical Resistance %",
+                15.0,
+                "Magic Resistance %",
+                5.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Player Epicenter) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2000.0,
+                "Physical Resistance %",
+                5.0,
+                "Magic Resistance %",
+                15.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Player Epicenter) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                30.0,
+                "Aggro %",
+                40.0,
+                "Fractional Barrier %",
+                15.0,
+                "Reduce Dmg (Player Epicenter) %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                4000.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                30.0,
+                "Fractional Barrier %",
+                15.0,
+                "Reduce Dmg (Player Epicenter) %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Gingerbread Man Shield",
+        "origin": 1,
+        "base": 72.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Aggro %",
+                -20.0,
+                "Revive Time %",
+                -20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Sacred Snow Crystal",
+                5
+            ]
+        }
+    },
+    {
+        "name": "6th Anniv Shield VI",
+        "origin": 1,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                8.0,
+                "Physical Resistance %",
+                12.0,
+                "Magic Resistance %",
+                12.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                420,
+                "Golpom 6th Anniv Medal",
+                20,
+                "Metal",
+                235
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield V",
+        "origin": 1,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                8.0,
+                "Physical Resistance %",
+                12.0,
+                "Magic Resistance %",
+                12.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                24.0,
+                "Aggro %",
+                24.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                8.0,
+                "Physical Resistance %",
+                12.0,
+                "Magic Resistance %",
+                12.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                24.0,
+                "Aggro %",
+                24.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 190,
+            "diff": 230,
+            "mats": [
+                "Spina",
+                420,
+                "Silpom 7th Anniv Medal",
+                20,
+                "Metal",
+                220
+            ]
+        }
+    },
+    {
+        "name": "8th Anniv Shield IV",
+        "origin": 1,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                8.0,
+                "Physical Resistance %",
+                12.0,
+                "Magic Resistance %",
+                12.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                24.0,
+                "Aggro %",
+                24.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                8.0,
+                "Physical Resistance %",
+                12.0,
+                "Magic Resistance %",
+                12.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                24.0,
+                "Aggro %",
+                24.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                400,
+                "Bropom 8th Anniv Medal",
+                20,
+                "Metal",
+                220
+            ]
+        }
+    },
+    {
+        "name": "Aeria Shield",
+        "origin": 2,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                3.0,
+                "ASPD %",
+                20.0,
+                "Guard Power %",
+                29.0,
+                "Guard Recharge %",
+                29.0
+            ]
+        },
+        "source": [
+            [
+                "Boma Owl",
+                219,
+                "Boma Konda: Entrance",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Aeria Shield",
+        "origin": 1,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                4.0,
+                "ASPD %",
+                20.0,
+                "Guard Power %",
+                29.0,
+                "Guard Recharge %",
+                29.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1050,
+                "Kiton's Wing",
+                25,
+                "Crooked Horn",
+                10,
+                "Metal",
+                300,
+                "Beast",
+                225
+            ]
+        }
+    },
+    {
+        "name": "Beastlord Shield",
+        "origin": 2,
+        "base": 76.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            205,
+            102,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                8.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                15.0,
+                "Aggro %",
+                30.0,
+                "Fractional Barrier %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Zega (Megiston 2021)",
+                240,
+                "Event",
+                []
+            ],
+            [
+                "Zega (Megiston 2022)",
+                260,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Eradicator Shield",
+        "origin": 2,
+        "base": 84.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            220,
+            110,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                15.0,
+                "Critical Rate",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                17.0,
+                "Reduce Dmg (Bullet) %",
+                25.0,
+                "Reduce Dmg (Bowling) %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Velum",
+                213,
+                "Arstida: Depth",
+                []
+            ],
+            [
+                "Velum",
+                223,
+                "Arstida: Depth",
+                []
+            ],
+            [
+                "Velum",
+                233,
+                "Arstida: Depth",
+                []
+            ],
+            [
+                "Velum",
+                243,
+                "Arstida: Depth",
+                []
+            ],
+            [
+                "Velum",
+                263,
+                "Arstida: Depth",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Eradicator Shield",
+        "origin": 1,
+        "base": 84.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            220,
+            110,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                15.0,
+                "Critical Rate",
+                10.0,
+                "Guard Power %",
+                40.0,
+                "Guard Recharge %",
+                17.0,
+                "Reduce Dmg (Bullet) %",
+                15.0,
+                "Reduce Dmg (Bowling) %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2200,
+                "Velum's Crystal Reactor",
+                2,
+                "Velum's Armor",
+                4,
+                "Metal",
+                1200,
+                "Wood",
+                1000
+            ]
+        }
+    },
+    {
+        "name": "Luxurie Shield",
+        "origin": 2,
+        "base": 84.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            220,
+            110,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                50.0,
+                "Guard Recharge %",
+                9.0,
+                "Short Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Forbigosta",
+                229,
+                "Subma Cave",
+                []
+            ],
+            [
+                "Forbigosta",
+                231,
+                "Subma Cave",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Luxurie Shield",
+        "origin": 1,
+        "base": 84.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            220,
+            110,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                15.0,
+                "Guard Power %",
+                50.0,
+                "Guard Recharge %",
+                9.0,
+                "Short Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1100,
+                "Planispiral Shell",
+                25,
+                "Circular Plate",
+                20,
+                "Metal",
+                350,
+                "Beast",
+                150
+            ]
+        }
+    },
+    {
+        "name": "Moonlight Shield II",
+        "origin": 1,
+        "base": 88.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            225,
+            112,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                25.0,
+                "Magic Barrier",
+                1500.0,
+                "Guard Break %",
+                10.0,
+                "Magic Pierce %",
+                5.0,
+                "Aggro %",
+                10.0,
+                "Fire resistance %",
+                20.0,
+                "Magic Resistance %",
+                5.0
+            ],
+            "Staff only": [
+                "Magic Resistance %",
+                25.0,
+                "Magic Barrier",
+                1500.0,
+                "Guard Break %",
+                10.0,
+                "Magic Pierce %",
+                5.0,
+                "Aggro %",
+                10.0,
+                "Fire resistance %",
+                20.0,
+                "Magic Resistance %",
+                5.0
+            ],
+            "1-Handed Sword only": [
+                "Magic Resistance %",
+                25.0,
+                "Magic Barrier",
+                1500.0,
+                "Guard Break %",
+                10.0,
+                "Magic Pierce %",
+                5.0,
+                "Aggro %",
+                10.0,
+                "Fire resistance %",
+                20.0,
+                "Magic Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Bubble Angel",
+                184,
+                "Celesa's Tree Garden",
+                []
+            ],
+            [
+                "Bubble Angel",
+                180,
+                "Celesa's Tree Garden",
+                []
+            ],
+            [
+                "Roar",
+                181,
+                "Celesa's Tree Garden",
+                []
+            ],
+            [
+                "Roar",
+                183,
+                "Celesa's Tree Garden",
+                []
+            ],
+            [
+                "Sumari",
+                182,
+                "Celesa's Tree Garden",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                158,
+                "Otsukimi Dango",
+                30,
+                "Lively Dango",
+                15,
+                "Metal",
+                400,
+                "Mana",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Peismataris",
+        "origin": 1,
+        "base": 90.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            1000,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                15.0,
+                "Ailment Resistance %",
+                15.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Watermelon Shield",
+        "origin": 1,
+        "base": 90.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Light resistance %",
+                10.0,
+                "Guard Recharge %",
+                50.0,
+                "Aggro %",
+                40.0,
+                "Fractional Barrier %",
+                20.0,
+                "Magic Barrier",
+                3000.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                7600,
+                "Summer Day Memory",
+                10,
+                "Dark Brown Seed",
+                13,
+                "Half-Eaten Fruit",
+                99,
+                "Medicine",
+                400
+            ]
+        }
+    },
+    {
+        "name": "7th Anniv Shield VI",
+        "origin": 1,
+        "base": 92.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            230,
+            115,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                9.0,
+                "Physical Resistance %",
+                13.0,
+                "Magic Resistance %",
+                13.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                26.0,
+                "Aggro %",
+                26.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                9.0,
+                "Physical Resistance %",
+                13.0,
+                "Magic Resistance %",
+                13.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                26.0,
+                "Aggro %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 210,
+            "diff": 240,
+            "mats": [
+                "Spina",
+                440,
+                "Golpom 7th Anniv Medal",
+                20,
+                "Metal",
+                240
+            ]
+        }
+    },
+    {
+        "name": "8th Anniv Shield V",
+        "origin": 1,
+        "base": 92.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            230,
+            115,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                9.0,
+                "Physical Resistance %",
+                13.0,
+                "Magic Resistance %",
+                13.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                26.0,
+                "Aggro %",
+                26.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                9.0,
+                "Physical Resistance %",
+                13.0,
+                "Magic Resistance %",
+                13.0,
+                "Guard Power %",
+                41.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                26.0,
+                "Aggro %",
+                26.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                440,
+                "Silpom 8th Anniv Medal",
+                20,
+                "Metal",
+                240
+            ]
+        }
+    },
+    {
+        "name": "Profound Shield",
+        "origin": 2,
+        "base": 92.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            230,
+            115,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                14.0,
+                "Dark resistance %",
+                18.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Trast",
+                238,
+                "Pipeline Corridor",
+                []
+            ],
+            [
+                "Trast",
+                240,
+                "Pipeline Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Profound Shield",
+        "origin": 1,
+        "base": 92.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            230,
+            115,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                15.0,
+                "Dark resistance %",
+                20.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1150,
+                "Lava Rock",
+                10,
+                "Corroded Iron Skin",
+                20,
+                "Metal",
+                400,
+                "Beast",
+                175
+            ]
+        }
+    },
+    {
+        "name": "Lolliodd Magic Shield",
+        "origin": 1,
+        "base": 99.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate %",
+                100.0,
+                "Guard Recharge %",
+                -75.0,
+                "Weapon ATK %",
+                25.0,
+                "Additional Melee %",
+                50.0,
+                "Reduce Dmg (Floor) %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100000,
+                "Evil Lefina",
+                1,
+                "Mage Filecia",
+                1,
+                "Raging Soul",
+                20,
+                "Mysterious Meringue",
+                99
+            ]
+        }
+    },
+    {
+        "name": "Evil Aristo Defense Shackles",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            245,
+            122,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                5.0,
+                "Magic Resistance %",
+                15.0,
+                "CSPD",
+                500.0,
+                "Dark resistance %",
+                10.0,
+                "Ailment Resistance %",
+                5.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                50.0,
+                "Aggro %",
+                50.0
+            ],
+            "Staff only": [
+                "MaxHP %",
+                5.0,
+                "Magic Resistance %",
+                15.0,
+                "CSPD",
+                500.0,
+                "Dark resistance %",
+                10.0,
+                "Ailment Resistance %",
+                5.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                50.0,
+                "Aggro %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Wicked Dragon Fazzino",
+                234,
+                "Propulsion System Room",
+                []
+            ],
+            [
+                "Wicked Dragon Fazzino",
+                244,
+                "Propulsion System Room",
+                []
+            ],
+            [
+                "Wicked Dragon Fazzino",
+                254,
+                "Propulsion System Room",
+                []
+            ],
+            [
+                "Wicked Dragon Fazzino",
+                264,
+                "Propulsion System Room",
+                []
+            ],
+            [
+                "Wicked Dragon Fazzino",
+                284,
+                "Propulsion System Room",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Evil Aristo Defense Shackles",
+        "origin": 1,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            245,
+            122,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Magic Resistance %",
+                5.0,
+                "CSPD",
+                750.0,
+                "Dark resistance %",
+                5.0,
+                "Ailment Resistance %",
+                5.0,
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2450,
+                "Wicked Dragon Twisted Horn",
+                2,
+                "Wicked Dragon's Bristles",
+                3,
+                "Metal",
+                2000,
+                "Mana",
+                450
+            ]
+        }
+    },
+    {
+        "name": "Mischievous Buckler",
+        "origin": 2,
+        "base": 104.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            245,
+            122,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                400.0,
+                "CSPD %",
+                20.0,
+                "Guard Power %",
+                66.0,
+                "Guard Recharge %",
+                6.0,
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Sibylares (Very Hard)",
+                250,
+                "Phasma Forest: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "8th Anniv Shield VI",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            250,
+            125,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "VIT %",
+                10.0,
+                "Physical Resistance %",
+                14.0,
+                "Magic Resistance %",
+                14.0,
+                "Guard Power %",
+                42.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                28.0,
+                "Aggro %",
+                28.0
+            ],
+            "Heavy Armor only": [
+                "VIT %",
+                10.0,
+                "Physical Resistance %",
+                14.0,
+                "Magic Resistance %",
+                14.0,
+                "Guard Power %",
+                42.0,
+                "Guard Recharge %",
+                16.0,
+                "Aggro %",
+                28.0,
+                "Aggro %",
+                28.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                480,
+                "Golpom 8th Anniv Medal",
+                20,
+                "Metal",
+                260
+            ]
+        }
+    },
+    {
+        "name": "Peismataris",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            1000,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                15.0,
+                "Ailment Resistance %",
+                15.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Seashell Shield",
+        "origin": 2,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            175,
+            10,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                3000.0,
+                "Accuracy %",
+                20.0,
+                "CSPD %",
+                10.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Paguro",
+                172,
+                "Underwater Canyon: Area 1",
+                []
+            ],
+            [
+                "Paguro",
+                173,
+                "Underwater Canyon: Area 2",
+                []
+            ],
+            [
+                "Paguro",
+                174,
+                "Underwater Canyon: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2500.0,
+                "Physical Resistance %",
+                20.0,
+                "Magic Resistance %",
+                10.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Player Epicenter) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2500.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                20.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0,
+                "Reduce Dmg (Player Epicenter) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0,
+                "Aggro %",
+                60.0,
+                "Fractional Barrier %",
+                20.0,
+                "Reduce Dmg (Player Epicenter) %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Windgrace Shield",
+        "origin": 1,
+        "base": 108.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            100,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                5000.0,
+                "Guard Power %",
+                30.0,
+                "Guard Recharge %",
+                30.0,
+                "Fractional Barrier %",
+                20.0,
+                "Reduce Dmg (Player Epicenter) %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "HATSUNE MIKU Collab Venue",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Don Shield",
+        "origin": 2,
+        "base": 112.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                10000.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                25.0,
+                "Critical Rate",
+                5.0,
+                "Aggro %",
+                50.0
+            ],
+            "Light Armor only": [
+                "MaxHP",
+                10000.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                25.0,
+                "Critical Rate",
+                5.0,
+                "Aggro %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Don Profundo",
+                252,
+                "Abandoned District: Ruins Summit",
+                []
+            ],
+            [
+                "Don Profundo",
+                262,
+                "Abandoned District: Ruins Summit",
+                []
+            ],
+            [
+                "Don Profundo",
+                272,
+                "Abandoned District: Ruins Summit",
+                []
+            ],
+            [
+                "Don Profundo",
+                282,
+                "Abandoned District: Ruins Summit",
+                []
+            ],
+            [
+                "Don Profundo",
+                302,
+                "Abandoned District: Ruins Summit",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Don Shield",
+        "origin": 1,
+        "base": 112.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                5000.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                25.0,
+                "Critical Rate",
+                10.0,
+                "Aggro %",
+                25.0
+            ],
+            "Light Armor only": [
+                "MaxHP",
+                5000.0,
+                "Guard Power %",
+                36.0,
+                "Guard Recharge %",
+                25.0,
+                "Critical Rate",
+                10.0,
+                "Aggro %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 255,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2600,
+                "Abyssal Jewel",
+                1,
+                "Abyssal Creature Exoskeleton",
+                4,
+                "Beast",
+                1600,
+                "Metal",
+                1000
+            ]
+        }
+    },
+    {
+        "name": "Ghoulfish Buckler",
+        "origin": 2,
+        "base": 120.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "DEX %",
+                3.0,
+                "Physical Pierce %",
+                6.0,
+                "ASPD",
+                600.0,
+                "Water resistance %",
+                15.0,
+                "Magic Resistance %",
+                20.0
+            ],
+            "Staff only": [
+                "DEX %",
+                3.0,
+                "Physical Pierce %",
+                6.0,
+                "ASPD",
+                600.0,
+                "Water resistance %",
+                15.0,
+                "Magic Resistance %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Pisteus",
+                183,
+                "Ducia Coast: Depths",
+                []
+            ],
+            [
+                "Pisteus",
+                193,
+                "Ducia Coast: Depths",
+                []
+            ],
+            [
+                "Pisteus",
+                203,
+                "Ducia Coast: Depths",
+                []
+            ],
+            [
+                "Pisteus",
+                213,
+                "Ducia Coast: Depths",
+                []
+            ],
+            [
+                "Pisteus",
+                233,
+                "Ducia Coast: Depths",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ghoulfish Buckler",
+        "origin": 1,
+        "base": 120.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "DEX %",
+                3.0,
+                "Physical Pierce %",
+                6.0,
+                "ASPD",
+                300.0,
+                "Water resistance %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1950,
+                "Ghoulfish Soul",
+                2,
+                "Pisteus Fin",
+                4,
+                "Beast",
+                1200,
+                "Wood",
+                750
+            ]
+        }
+    },
+    {
+        "name": "Gloomy Tree Shield",
+        "origin": 2,
+        "base": 130.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            275,
+            137,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "ASPD %",
+                31.0,
+                "Guard Power %",
+                31.0,
+                "Guard Recharge %",
+                31.0,
+                "Additional Magic %",
+                40.0,
+                "CSPD %",
+                -75.0
+            ],
+            "Knuckle only": [
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "ASPD %",
+                31.0,
+                "Guard Power %",
+                31.0,
+                "Guard Recharge %",
+                31.0,
+                "Additional Magic %",
+                40.0,
+                "CSPD %",
+                -75.0
+            ]
+        },
+        "source": [
+            [
+                "Deformis",
+                264,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                274,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                284,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                294,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                314,
+                "Eumano Village Ruins: Central",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Rock Dragon Heavy Shield",
+        "origin": 2,
+        "base": 152.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "ASPD %",
+                30.0,
+                "Ailment Resistance %",
+                3.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                32.0,
+                "Aggro %",
+                30.0,
+                "Neutral Resistance %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Ferzen the Rock Dragon",
+                211,
+                "Guardian Forest: Giant Tree",
+                []
+            ],
+            [
+                "Ferzen the Rock Dragon",
+                221,
+                "Guardian Forest: Giant Tree",
+                []
+            ],
+            [
+                "Ferzen the Rock Dragon",
+                231,
+                "Guardian Forest: Giant Tree",
+                []
+            ],
+            [
+                "Ferzen the Rock Dragon",
+                251,
+                "Guardian Forest: Giant Tree",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Rock Dragon Heavy Shield",
+        "origin": 1,
+        "base": 152.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "ASPD %",
+                20.0,
+                "Ailment Resistance %",
+                4.0,
+                "Guard Power %",
+                24.0,
+                "Guard Recharge %",
+                32.0,
+                "Aggro %",
+                40.0,
+                "Neutral Resistance %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2100,
+                "Blue Rock",
+                2,
+                "Terrestrial Tears",
+                4,
+                "Metal",
+                1300,
+                "Beast",
+                800
+            ]
+        }
+    }
+]

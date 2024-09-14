@@ -1,0 +1,2847 @@
+[
+    {
+        "name": "Caravan Arrow",
+        "origin": -1,
+        "base": 2.0,
+        "stab": 15.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                2.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Flash Volt",
+        "origin": -1,
+        "base": 3.0,
+        "stab": 15.0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                10.0,
+                "% stronger against Light",
+                -50.0,
+                "Light Element",
+                1.0
+            ],
+            "Bowgun only": [
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Magic Arrow",
+        "origin": 2,
+        "base": 3.0,
+        "stab": 30.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "Bow only": [
+                "Accuracy",
+                100.0,
+                "Critical Damage",
+                -10.0,
+                "% stronger against Neutral",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 2",
+                []
+            ],
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 3",
+                []
+            ],
+            [
+                "Dirty Antique",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Wooden Arrow",
+        "origin": 1,
+        "base": 4.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {},
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                5,
+                "Woodchip",
+                10,
+                "Wood",
+                3
+            ]
+        }
+    },
+    {
+        "name": "Fire Arrow",
+        "origin": 1,
+        "base": 5.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Fire Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Minotaur Horn",
+                2,
+                "Twinkle Stone",
+                10,
+                "Metal",
+                100,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Hardwood Arrow",
+        "origin": 2,
+        "base": 6.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            10,
+            5,
+            "Wood"
+        ],
+        "stats": {},
+        "source": [
+            [
+                "Pomum",
+                7,
+                "Reug Salt Plains: Wanderers Camp",
+                [
+                    "#000000",
+                    "#000000",
+                    "#000000"
+                ]
+            ],
+            [
+                "Pomum",
+                7,
+                "Reug Salt Plains: Wanderers Camp",
+                [
+                    "#c0c0c0",
+                    "#000000",
+                    "#000000"
+                ]
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hardwood Arrow",
+        "origin": 1,
+        "base": 6.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            10,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Animal Claw",
+                10,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Wind Slash Arrow",
+        "origin": 1,
+        "base": 10.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                1.0,
+                "Physical Pierce %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Wind Slash Feather",
+                6,
+                "Thick Black Cloth",
+                3,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Thin Sharp Arrow",
+        "origin": 1,
+        "base": 12.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                30.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Roost",
+                25,
+                "Sand Crystal",
+                5,
+                "Wood",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Hunter's Arrow",
+        "origin": 2,
+        "base": 13.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Long Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Beak",
+                32,
+                "Scaro Town: Area 1",
+                []
+            ],
+            [
+                "Beak",
+                33,
+                "Scaro Town: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hunter's Arrow",
+        "origin": 1,
+        "base": 13.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                1.0,
+                "Long Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Hard Fur",
+                5,
+                "Sharp Fang",
+                30,
+                "Metal",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Tempest Arrow",
+        "origin": 2,
+        "base": 15.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                10.0,
+                "Critical Damage %",
+                1.0,
+                "Wind Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Forestia",
+                49,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                39,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                59,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                69,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                89,
+                "Land Of Chaos",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Tempest Arrow",
+        "origin": 1,
+        "base": 15.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage %",
+                1.0,
+                "Wind Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                175,
+                "Green Dragon Claw",
+                10,
+                "Sweet-smelling Wood",
+                20,
+                "Wood",
+                125,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Ice Arrow",
+        "origin": 1,
+        "base": 17.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                2.0,
+                "Water Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                200,
+                "Crystal of Flowing Water",
+                10,
+                "Wet Wood",
+                10,
+                "Wood",
+                50,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "High-Quality Wood Arrow",
+        "origin": 2,
+        "base": 18.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            40,
+            20,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                2.0,
+                "MaxMP",
+                50.0,
+                "Accuracy %",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "Arborgon",
+                39,
+                "Harde Hill",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Mushroom Arrow",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 1.0,
+        "pot": 0,
+        "amount": [
+            10,
+            2,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                -10.0,
+                "Aggro %",
+                5.0,
+                "Attack MP Recovery",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "Kinote",
+                27,
+                "Nehelo Swamp",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Blade Arrow",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 15.0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                3.0,
+                "Critical Damage",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Roost",
+                25,
+                "Broken Woodsman Axe",
+                5,
+                "Wood",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Ceramic Arrow",
+        "origin": -1,
+        "base": 22.0,
+        "stab": 10.0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Earth Element",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Iron Arrow",
+        "origin": 1,
+        "base": 24.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Weapon ATK %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Roost",
+                25,
+                "Huge Iron Ball",
+                5,
+                "Wood",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Artisan Arrow",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 24.0,
+        "pot": 0,
+        "amount": [
+            60,
+            30,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Motion Speed %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Soft Twig",
+                30,
+                "Scorpion Tail",
+                12,
+                "Frog Ointment",
+                1,
+                "Wood",
+                150
+            ]
+        }
+    },
+    {
+        "name": "Heavy Bolt",
+        "origin": 1,
+        "base": 32.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                3.0,
+                "Accuracy %",
+                -25.0
+            ],
+            "Bowgun only": [
+                "Weapon ATK",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Old Wood",
+                35,
+                "Fractured Rock",
+                35,
+                "Wood",
+                100,
+                "Metal",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Mithril Arrow",
+        "origin": 1,
+        "base": 32.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate %",
+                1.0,
+                "Long Range Damage %",
+                1.0
+            ],
+            "Bow only": [
+                "Critical Damage",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Mithril",
+                1,
+                "Mithril Ore",
+                1,
+                "Metal",
+                90,
+                "Mana",
+                85
+            ]
+        }
+    },
+    {
+        "name": "Flame Arrow",
+        "origin": 2,
+        "base": 34.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Fire Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Sunion",
+                73,
+                "Dark Mirror",
+                []
+            ],
+            [
+                "Sunion",
+                76,
+                "Dark Mirror",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Aquamirror Arrow",
+        "origin": -1,
+        "base": 37.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                100.0,
+                "Water Element",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sharp Wood Arrow",
+        "origin": 2,
+        "base": 40.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            85,
+            42,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                6.0,
+                "Critical Damage",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Maple Fox",
+                91,
+                "Navida City: Crossroad (80-100)",
+                []
+            ],
+            [
+                "Maple Fox",
+                91,
+                "Navida City: East (80-100)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Split Arrow",
+        "origin": -1,
+        "base": 40.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Attack MP Recovery",
+                1.0
+            ],
+            "Bow only": [
+                "Additional Melee %",
+                100.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Twilight Arrow",
+        "origin": 2,
+        "base": 40.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                -10.0,
+                "Ailment Resistance %",
+                5.0,
+                "Dark Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Twilight Dragon",
+                100,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                90,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                110,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                120,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                140,
+                "Fort Solfini: Roof",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pointed Ore Arrow",
+        "origin": 2,
+        "base": 43.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "DEF",
+                50.0,
+                "Physical Resistance %",
+                3.0,
+                "Accuracy %",
+                -1.0,
+                "Earth Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Cavern Rat",
+                99,
+                "Singolare Ruins: 1st Floor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Arrow",
+        "origin": 2,
+        "base": 50.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                100.0,
+                "Aggro %",
+                -10.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box I",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Cacao Arrow",
+        "origin": 1,
+        "base": 50.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                3.0,
+                "Aggro %",
+                -6.0,
+                "Earth Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                40,
+                "Chocolate Chip",
+                9,
+                "Mysterious Cacao",
+                3,
+                "Wood",
+                40
+            ]
+        }
+    },
+    {
+        "name": "Candy Arrow",
+        "origin": 1,
+        "base": 56.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MDEF %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Light Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                40,
+                "Candy Fragment",
+                9,
+                "Mysterious Fruit",
+                3,
+                "Mana",
+                40
+            ]
+        }
+    },
+    {
+        "name": "Shooting Star Arrow",
+        "origin": 2,
+        "base": 58.0,
+        "stab": 1.0,
+        "pot": 0,
+        "amount": [
+            60,
+            30,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Stability %",
+                -50.0,
+                "Critical Rate",
+                25.0
+            ],
+            "Bowgun only": [
+                "ASPD",
+                250.0
+            ]
+        },
+        "source": [
+            [
+                "Nurethoth",
+                76,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                66,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                86,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                96,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                116,
+                "Gate to Another World: Front",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Arrow of Penetration",
+        "origin": 2,
+        "base": 64.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0,
+                "Critical Damage",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Pond Snake",
+                115,
+                "Copia Reservoir",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chimera Arrow",
+        "origin": 2,
+        "base": 67.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            125,
+            62,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                -9.0,
+                "MaxMP",
+                300.0,
+                "Critical Rate",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "Mozto Machina",
+                114,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                124,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                134,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                144,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                164,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Crystal Arrow",
+        "origin": 2,
+        "base": 70.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Aggro %",
+                -20.0,
+                "Weapon ATK",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Aeternus",
+                130,
+                "Barbaros Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Love Arrow",
+        "origin": 1,
+        "base": 71.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0,
+                "Fire Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                130,
+                "Prime Chocolate Chip",
+                9,
+                "Love Cacao",
+                3,
+                "Wood",
+                130
+            ]
+        }
+    },
+    {
+        "name": "Treat Arrow",
+        "origin": 2,
+        "base": 77.0,
+        "stab": 30.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                1.0,
+                "Critical Rate %",
+                1.0,
+                "Aggro %",
+                -1.0
+            ]
+        },
+        "source": [
+            [
+                "Zarth",
+                175,
+                "Zarth's Mansion: Back",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Spiky Arrow",
+        "origin": 2,
+        "base": 79.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            140,
+            70,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                5.0,
+                "Dark Element",
+                1.0,
+                "Reduce Dmg (Floor) %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Ivy",
+                150,
+                "Dark Dragon Shrine: Lower",
+                []
+            ],
+            [
+                "Ivy",
+                151,
+                "Dark Dragon Shrine: Middle",
+                []
+            ],
+            [
+                "Ivy",
+                152,
+                "Dark Dragon Shrine: Upper",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Lil Empress Arrow",
+        "origin": 2,
+        "base": 83.0,
+        "stab": 15.0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                10.0,
+                "DEF %",
+                -30.0,
+                "ASPD %",
+                10.0,
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Coenubia (YK Wifey)",
+                140,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                150,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                160,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                170,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                190,
+                "Ultimea Palace: Throne",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Serein Arrow",
+        "origin": 2,
+        "base": 84.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Tumble Unavailable",
+                1.0,
+                "Absolute Accuracy %",
+                1.0
+            ],
+            "Bowgun,Bow only": [
+                "Water Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Floragonet",
+                159,
+                "Fractum Sector: Area 1",
+                []
+            ],
+            [
+                "Floragonet",
+                160,
+                "Fractum Sector: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sakura Princess Arrow",
+        "origin": 2,
+        "base": 88.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Mimesia (Easy)",
+                120,
+                "Sakura Castle Donjon: Top",
+                []
+            ],
+            [
+                "Mimesia (Normal)",
+                140,
+                "Sakura Castle Donjon: Top",
+                []
+            ],
+            [
+                "Mimesia (Hard)",
+                160,
+                "Sakura Castle Donjon: Top",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Apple Arrow",
+        "origin": 2,
+        "base": 92.0,
+        "stab": 15.0,
+        "pot": 0,
+        "amount": [
+            155,
+            77,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Aggro %",
+                -10.0,
+                "Wind Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Coryn",
+                154,
+                "Dikkit Sector",
+                []
+            ],
+            [
+                "Coryn",
+                156,
+                "Dikkit Sector",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Elven Arrow",
+        "origin": 2,
+        "base": 96.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                20.0,
+                "Anticipate %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Lazulligator",
+                160,
+                "Old Lufenas Mansion Ruins",
+                []
+            ],
+            [
+                "Lazulligator",
+                163,
+                "Old Lufenas Mansion Ruins",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Evil Beast Arrow",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Beast"
+        ],
+        "stats": {
+            "Bow only": [
+                "Attack MP Recovery",
+                3.0,
+                "Short Range Damage %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Memecoleous",
+                100,
+                "Dark Castle: Area 2",
+                []
+            ],
+            [
+                "Memecoleous",
+                90,
+                "Dark Castle: Area 2",
+                []
+            ],
+            [
+                "Memecoleous",
+                110,
+                "Dark Castle: Area 2",
+                []
+            ],
+            [
+                "Memecoleous",
+                120,
+                "Dark Castle: Area 2",
+                []
+            ],
+            [
+                "Memecoleous",
+                140,
+                "Dark Castle: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Holy Tree Arrow",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Dark resistance %",
+                10.0,
+                "Light Element",
+                1.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Santaby",
+                159,
+                "Tomte Pavillion (150-170)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Twilight Sakura Arrow",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Light resistance %",
+                5.0,
+                "Dark Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Amalgam",
+                140,
+                "Twilight Sakura Castle: Top",
+                []
+            ],
+            [
+                "Amalgam",
+                160,
+                "Twilight Sakura Castle: Top",
+                []
+            ],
+            [
+                "Amalgam",
+                180,
+                "Twilight Sakura Castle: Top",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Arrow II",
+        "origin": 2,
+        "base": 101.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            165,
+            82,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                200.0,
+                "Aggro %",
+                -12.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box III",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Kijimu's Arrow",
+        "origin": 1,
+        "base": 106.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Magic Pierce %",
+                10.0,
+                "Magic Barrier",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ],
+            [
+                "Kijimu",
+                124,
+                "Creme Cliff (Valentine's Day Event)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Poison Needle",
+        "origin": 2,
+        "base": 106.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            170,
+            85,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Ailment Resistance %",
+                -3.0,
+                "Short Range Damage %",
+                1.0
+            ],
+            "1-Handed Sword only": [
+                "Critical Rate",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Weltacle",
+                168,
+                "Recetacula Sector: Area 1",
+                []
+            ],
+            [
+                "Weltacle",
+                170,
+                "Recetacula Sector: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ocean Arrow",
+        "origin": 1,
+        "base": 110.0,
+        "stab": 10.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Wind resistance %",
+                -3.0,
+                "Water Element",
+                1.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Deep-Sea Coral",
+                10,
+                "Sea Current Crystal",
+                1,
+                "Metal",
+                150,
+                "Mana",
+                150
+            ]
+        }
+    },
+    {
+        "name": "Spiny Leaf Arrow",
+        "origin": 2,
+        "base": 110.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            175,
+            87,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Aggro %",
+                10.0,
+                "Earth Element",
+                1.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Ghilly",
+                182,
+                "Sable Plains",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Quartz Arrow",
+        "origin": 2,
+        "base": 115.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Rollitida",
+                191,
+                "Fugitive Lake Swamp: Area 2",
+                []
+            ],
+            [
+                "Rollitida",
+                193,
+                "Fugitive Lake Swamp: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Demon Empress Arrow",
+        "origin": 2,
+        "base": 120.0,
+        "stab": 10.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                15.0,
+                "Aggro %",
+                -15.0,
+                "Fire Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Metacoenubia",
+                185,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                195,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                205,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                215,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                235,
+                "Neo Plastida",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Drill Bolt",
+        "origin": 2,
+        "base": 120.0,
+        "stab": 10.0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                10.0,
+                "Critical Damage",
+                2.0,
+                "Aggro %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Mine Digger",
+                113,
+                "Ultimea Sewer: South",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Specter Arrow",
+        "origin": 2,
+        "base": 120.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            185,
+            92,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Dark Element",
+                1.0,
+                "Additional Magic %",
+                50.0,
+                "Invincible Aid (sec)",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Manomare",
+                169,
+                "Phasma Forest: Area 1",
+                []
+            ],
+            [
+                "Manomare",
+                170,
+                "Phasma Forest: Area 2",
+                []
+            ],
+            [
+                "Manomare",
+                171,
+                "Phasma Forest: Area 3",
+                []
+            ],
+            [
+                "Manomare",
+                172,
+                "Phasma Forest: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Devil's Arrow",
+        "origin": 2,
+        "base": 130.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            195,
+            97,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                8.0,
+                "Short Range Damage %",
+                2.0,
+                "Anticipate %",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "Skullpion",
+                198,
+                "Vulcani Underground Passage",
+                []
+            ],
+            [
+                "Skullpion",
+                200,
+                "Vulcani Underground Passage",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bat Fang Arrow",
+        "origin": 2,
+        "base": 136.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                10.0,
+                "Accuracy",
+                -20.0,
+                "Critical Rate",
+                10.0,
+                "Wind Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Kuffa",
+                180,
+                "Risus Valley: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dreamy Arrow",
+        "origin": 2,
+        "base": 136.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                10.0,
+                "Aggro %",
+                -20.0,
+                "% stronger against Neutral",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Dreamy Scarlet Sakura (Nightmare)",
+                220,
+                "Lush Falls : Upstream",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Lovely Autumn Arrow",
+        "origin": 1,
+        "base": 142.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2000.0,
+                "Weapon ATK %",
+                10.0,
+                "Guard Break %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                3200,
+                "Fallen in Fall",
+                30,
+                "Withered Leaf",
+                40,
+                "Quake Sound",
+                20,
+                "Amethyst Flower",
+                2
+            ]
+        }
+    },
+    {
+        "name": "Anniv Festive Arrow III",
+        "origin": 2,
+        "base": 146.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                300.0,
+                "Aggro %",
+                -14.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box V",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Queen Bee Arrow",
+        "origin": 1,
+        "base": 150.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Water resistance %",
+                5.0,
+                "Wind Element",
+                1.0,
+                "Tumble Unavailable",
+                1.0,
+                "Additional Melee %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Royal Jelly",
+                4,
+                "Gold Flower",
+                2,
+                "Medicine",
+                500,
+                "Mana",
+                500
+            ]
+        }
+    },
+    {
+        "name": "Blazing Tail Arrow",
+        "origin": 2,
+        "base": 152.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            215,
+            107,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Fire resistance %",
+                10.0,
+                "Fire Element",
+                1.0,
+                "Reduce Dmg (Bowling) %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Tailgon",
+                213,
+                "Tunnel of Trials",
+                []
+            ],
+            [
+                "Tailgon",
+                216,
+                "Tunnel of Trials",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pearl Sakura Arrow",
+        "origin": 1,
+        "base": 160.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Critical Rate",
+                10.0
+            ],
+            "Bow only": [
+                "Long Range Damage %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Fine Sake (Pearl Sakura)",
+                25,
+                "Sinister Origami",
+                1,
+                "Torn Paper Crane",
+                1,
+                "Wood",
+                180
+            ]
+        }
+    },
+    {
+        "name": "Guardian Forest Arrow",
+        "origin": 2,
+        "base": 163.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            225,
+            112,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                50.0,
+                "% stronger against Fire",
+                -10.0,
+                "% stronger against Light",
+                -20.0,
+                "Aggro %",
+                -25.0,
+                "Earth Element",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Arbogazella",
+                236,
+                "Guardian Forest: Lost Woods",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Spiral Shell Arrow",
+        "origin": 2,
+        "base": 163.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            225,
+            112,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                10.0,
+                "Anticipate %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Spirulida",
+                243,
+                "Deep Sea: Zone 1",
+                []
+            ],
+            [
+                "Spirulida",
+                244,
+                "Deep Sea: Zone 2",
+                []
+            ],
+            [
+                "Spirulida",
+                245,
+                "Deep Sea: Zone 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sunny Spring Arrow",
+        "origin": 1,
+        "base": 181.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            240,
+            120,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                5.0,
+                "Magic Pierce %",
+                5.0,
+                "Light Element",
+                1.0,
+                "Guard Break %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                5000,
+                "Cherry Pink Certificate",
+                10,
+                "Wood",
+                300,
+                "Mana",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Dragon Guard Arrow",
+        "origin": 2,
+        "base": 187.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                10.0,
+                "Earth resistance %",
+                -5.0,
+                "Fire Element",
+                1.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Guard Golem (Megiston 2022)",
+                250,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Evil Gaze Arrow",
+        "origin": -1,
+        "base": 190.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                30.0,
+                "Wind resistance %",
+                10.0,
+                "Dark Element",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Arrow IV",
+        "origin": 2,
+        "base": 194.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            250,
+            125,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                400.0,
+                "Aggro %",
+                -16.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box VII",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dragon Palace Arrow",
+        "origin": 2,
+        "base": 200.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                25.0,
+                "Critical Rate %",
+                25.0,
+                "Water Element",
+                1.0,
+                "% stronger against Neutral",
+                -25.0,
+                "Stun Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Sea Ghost Wooden Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Driver Bolt",
+        "origin": 2,
+        "base": 200.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                -75.0,
+                "Attack MP Recovery",
+                1.0,
+                "Neutral Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Inspector Golem",
+                122,
+                "Joulu House: Depot (Lv 100)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Driver Bolt",
+        "origin": 2,
+        "base": 200.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                -50.0,
+                "Attack MP Recovery",
+                2.0,
+                "Neutral Resistance %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Inspector Golem",
+                143,
+                "Joulu House: Depot (Lv 130)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Driver Bolt",
+        "origin": 2,
+        "base": 200.0,
+        "stab": 20.0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                -25.0,
+                "Attack MP Recovery",
+                3.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Inspector Golem",
+                164,
+                "Joulu House: Depot (Lv 150)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Eumano Arrow",
+        "origin": 2,
+        "base": 226.0,
+        "stab": 25.0,
+        "pot": 0,
+        "amount": [
+            275,
+            137,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0,
+                "Earth Element",
+                1.0,
+                "Long Range Damage %",
+                1.0,
+                "Motion Speed %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Deformis",
+                264,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                274,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                284,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                294,
+                "Eumano Village Ruins: Central",
+                []
+            ],
+            [
+                "Deformis",
+                314,
+                "Eumano Village Ruins: Central",
+                []
+            ]
+        ],
+        "recipe": ""
+    }
+]

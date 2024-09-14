@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Metal Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Fire Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MATK %",
+                1.0,
+                "Magic Pierce %",
+                5.0
+            ],
+            "Staff only": [
+                "MATK %",
+                1.0,
+                "Magic Pierce %",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Lightning Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Stability %",
+                5.0,
+                "Accuracy %",
+                10.0
+            ],
+            "Katana only": [
+                "Stability %",
+                5.0,
+                "Accuracy %",
+                10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Water Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Ailment Resistance %",
+                5.0,
+                "Aggro %",
+                -10.0
+            ],
+            "Magic Device only": [
+                "Ailment Resistance %",
+                5.0,
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Earth Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Fractional Barrier %",
+                10.0
+            ],
+            "1-Handed Sword only": [
+                "MaxHP %",
+                10.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Wind Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                250.0,
+                "Critical Rate",
+                5.0
+            ],
+            "Katana only": [
+                "ASPD",
+                250.0,
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Ninjutsu Scroll",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    }
+]

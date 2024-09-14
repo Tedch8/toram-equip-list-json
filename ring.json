@@ -1,0 +1,7130 @@
+[
+    {
+        "name": "Adamantite Charmstone",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                5000.0,
+                "Neutral Resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10000,
+                "Empty Charmstone",
+                10,
+                "Wonderful Stone",
+                5,
+                "Super Night Mushroom",
+                1,
+                "Mana",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Additional Magic Book",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "CSPD %",
+                3.0,
+                "Additional Magic %",
+                30.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Additional Melee Book",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "ASPD %",
+                3.0,
+                "Additional Melee %",
+                30.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Adroit Mage's Bangle",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                3.0,
+                "DEX",
+                3.0,
+                "MATK %",
+                1.0,
+                "CSPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Empress Hair Accessory",
+                1,
+                "Eerie Stone",
+                1,
+                "Metal",
+                125,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Adroit Warrior's Bangle",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                3.0,
+                "DEX",
+                3.0,
+                "ATK %",
+                1.0,
+                "ASPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Great Sword Fragment",
+                3,
+                "Crustacean Steel",
+                1,
+                "Metal",
+                125,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Ancient Shell Necklace",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Attack MP Recovery",
+                1.0,
+                "Flinch Unavailable",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Ankh of Resurrection",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Ailment Resistance %",
+                3.0,
+                "Invincible Aid (sec)",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Golden Casket",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anti Melee System",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            55,
+            27,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                -10.0,
+                "Physical Barrier",
+                2000.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Aristocrat Ring",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "ATK %",
+                -10.0,
+                "MATK %",
+                -10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Aromatic Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            22,
+            11,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                10.0,
+                "Natural MP Regen %",
+                10.0,
+                "Aggro %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Berry Pomum",
+                38,
+                "Harde Hill",
+                []
+            ],
+            [
+                "Berry Pomum",
+                40,
+                "Harde Hill",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Astral Lamp",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            87,
+            43,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Natural MP Regen %",
+                20.0,
+                "MaxMP",
+                300.0,
+                "Magic Pierce %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Galamp",
+                121,
+                "Phantom Wisp's Hideout",
+                []
+            ],
+            [
+                "Galamp",
+                124,
+                "Phantom Wisp's Hideout",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bear Warrior Obi",
+        "origin": -1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Cloth"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                15.0,
+                "Short Range Damage %",
+                2.0,
+                "Motion Speed %",
+                5.0,
+                "Critical Rate",
+                15.0
+            ],
+            "Knuckle only": [
+                "Critical Rate",
+                15.0,
+                "Short Range Damage %",
+                2.0,
+                "Motion Speed %",
+                5.0,
+                "Critical Rate",
+                15.0
+            ],
+            "2-Handed Sword only": [
+                "Critical Rate",
+                15.0,
+                "Short Range Damage %",
+                2.0,
+                "Motion Speed %",
+                5.0,
+                "Critical Rate",
+                15.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Beast Fang Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Mech Little Boar",
+                97,
+                "Sykea Deep Valley",
+                []
+            ],
+            [
+                "Mech Little Boar",
+                99,
+                "Sykea Deep Valley",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bitter Pumpkin Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Critical Rate",
+                3.0,
+                "Motion Speed %",
+                3.0,
+                "Unsheathe Attack %",
+                -3.0
+            ],
+            "1-Handed Sword only": [
+                "MaxMP",
+                300.0,
+                "Critical Rate",
+                3.0,
+                "Motion Speed %",
+                3.0,
+                "Unsheathe Attack %",
+                -3.0
+            ]
+        },
+        "source": [
+            [
+                "Calabari",
+                180,
+                "Risus Valley: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Bow Thimble",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Accuracy",
+                30.0,
+                "ATK %",
+                1.0
+            ],
+            "Bow only": [
+                "MaxMP",
+                200.0,
+                "Accuracy",
+                30.0,
+                "ATK %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Frog Webbed Foot",
+                25,
+                "Dark Gray Claw",
+                3,
+                "Mauez's Broken Rod",
+                3,
+                "Cloth",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Bow Thimble ZC",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            20,
+            "Cloth"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Accuracy",
+                15.0,
+                "ATK %",
+                1.0
+            ],
+            "Bow only": [
+                "MaxMP",
+                300.0,
+                "Accuracy",
+                15.0,
+                "ATK %",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Broken Watch",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -6.0,
+                "Magic Resistance %",
+                -6.0,
+                "ASPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 2",
+                []
+            ],
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 3",
+                []
+            ],
+            [
+                "Dirty Antique",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Buzz Ring",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Attack MP Recovery",
+                10.0,
+                "Long Range Damage %",
+                -5.0
+            ]
+        },
+        "source": [
+            [
+                "Honeybee",
+                128,
+                "Cookie Road",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Caravan Cord",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Weapon ATK",
+                5.0
+            ],
+            "Katana only": [
+                "MaxMP",
+                200.0,
+                "Weapon ATK",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Caravan Talisman",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Dodge",
+                4.0
+            ],
+            "Knuckle only": [
+                "MaxMP",
+                200.0,
+                "Dodge",
+                4.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Chocolate Charm",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Chocolate Ooze",
+                1,
+                "Chocolate Chip",
+                18
+            ]
+        }
+    },
+    {
+        "name": "Chocolate Charm II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Prime Chocolate Chip",
+                18,
+                "Eidenliebe",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Chocolate Charm III",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                4000,
+                "Bad Liquor",
+                6,
+                "Broker Goblin",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Chocolate Leaf Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1200.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "Shell Mask",
+                75,
+                "Sweet Hades",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chocolate Ring",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                350.0,
+                "ATK",
+                10.0,
+                "ASPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Chocolate Ooze",
+                1,
+                "Chocolate Chip",
+                9
+            ]
+        }
+    },
+    {
+        "name": "Chocolate Ring II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                450.0,
+                "ATK",
+                20.0,
+                "ASPD",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Prime Chocolate Chip",
+                9,
+                "Eidenliebe",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Chocolate Ring III",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                550.0,
+                "ATK",
+                40.0,
+                "ASPD",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Bad Liquor",
+                6,
+                "Broker Goblin",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Cookie Ring",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                350.0,
+                "MATK",
+                10.0,
+                "CSPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Candy Fragment",
+                9,
+                "Candela",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Cookie Ring II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                450.0,
+                "MATK",
+                20.0,
+                "CSPD",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Quality Flour",
+                9,
+                "Handmade Cookie",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Cookie Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Candy Fragment",
+                18,
+                "Candela",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Cookie Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1800.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Quality Flour",
+                18,
+                "Handmade Cookie",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Coral Peach Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Dark resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Atoble",
+                226,
+                "Labrum Atoll",
+                []
+            ],
+            [
+                "Atoble",
+                228,
+                "Labrum Atoll",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Cursed Gold Coin",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Drop Rate %",
+                -100.0
+            ]
+        },
+        "source": [
+            [
+                "Sea Ghost Wooden Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Fighter Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            47,
+            23,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Accuracy",
+                3.0,
+                "Aggro %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Controlled Fighter",
+                95,
+                "Dark Castle: Area 1",
+                []
+            ],
+            [
+                "Controlled Fighter",
+                95,
+                "Dark Castle: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Knight Amulet",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            47,
+            23,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Dodge",
+                3.0,
+                "Aggro %",
+                -25.0
+            ]
+        },
+        "source": [
+            [
+                "Controlled Knight",
+                93,
+                "Dark Castle: Area 1",
+                []
+            ],
+            [
+                "Controlled Knight",
+                93,
+                "Dark Castle: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Shaman Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                800.0,
+                "CSPD",
+                200.0,
+                "Aggro %",
+                -50.0
+            ]
+        },
+        "source": [
+            [
+                "Sibylares (Very Hard)",
+                250,
+                "Phasma Forest: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Talisman (Flash)",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                900.0,
+                "MaxMP",
+                300.0,
+                "Critical Rate",
+                5.0,
+                "Motion Speed %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Suspicious Old Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Talisman (Magic)",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                900.0,
+                "MaxMP",
+                300.0,
+                "MATK %",
+                3.0,
+                "Anticipate %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Suspicious Old Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Talisman (Power)",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                900.0,
+                "MaxMP",
+                300.0,
+                "ATK %",
+                3.0,
+                "Guard Break %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Suspicious Old Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Talisman (Resist)",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                900.0,
+                "MaxMP",
+                300.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Suspicious Old Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Talisman (Unknown)",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                900.0,
+                "MaxMP",
+                300.0,
+                "ASPD",
+                -1000.0,
+                "CSPD",
+                -1000.0,
+                "Item Cooldown",
+                -1.0
+            ]
+        },
+        "source": [
+            [
+                "Suspicious Old Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Day Sakura Charmstone",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "ASPD",
+                750.0,
+                "CSPD",
+                250.0,
+                "Ailment Resistance %",
+                -4.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Dexterity Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            5,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                2.0,
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Small Gloves",
+                30,
+                "Cloth",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Dexterity Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                4.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Poison Essence",
+                20,
+                "Cloth",
+                100,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Dexterity Talisman III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                6.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Evil Crystal Beast Claw",
+                1,
+                "Broken Clock Hand",
+                20,
+                "Cloth",
+                200,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Dexterity Talisman IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                8.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Twin Head Dragon Tail",
+                1,
+                "Broken Magazine",
+                20,
+                "Cloth",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Dexterity Talisman V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            104,
+            54,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                10.0,
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 193,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Corroded Mushroom Cap",
+                1,
+                "Pancake Ice Flower",
+                2,
+                "Cloth",
+                500,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Dexterity Talisman VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            100,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                12.0,
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1250,
+                "Filrocas Core",
+                1,
+                "Flying Dragon Wing",
+                20,
+                "Cloth",
+                525,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Dragonfly Ring",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            127,
+            63,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                10.0,
+                "Evasion Recharge %",
+                30.0,
+                "Additional Melee %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Venofly",
+                246,
+                "Perdida Wasteland",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Duo Additional Book",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Additional Melee %",
+                15.0,
+                "Additional Magic %",
+                15.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Falling Star Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Wind resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Mesoside",
+                247,
+                "Menabra Plains",
+                []
+            ],
+            [
+                "Mesoside",
+                245,
+                "Menabra Plains",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Full Blossom Charmstone",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "ASPD",
+                750.0,
+                "CSPD",
+                750.0,
+                "Ailment Resistance %",
+                -8.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Gapapa!",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10000,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                588.0,
+                "MaxMP",
+                588.0,
+                "Physical Barrier",
+                588.0,
+                "Magic Barrier",
+                588.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Ghilly Sheet",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Cloth"
+        ],
+        "stats": {
+            "General": [
+                "Dodge",
+                8.0,
+                "ASPD %",
+                -20.0,
+                "CSPD",
+                -20.0,
+                "Aggro %",
+                -40.0
+            ]
+        },
+        "source": [
+            [
+                "Ghilly",
+                53,
+                "Maia Diela",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ghost Telescope",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Stability %",
+                5.0,
+                "Accuracy %",
+                5.0,
+                "Light resistance %",
+                -15.0
+            ]
+        },
+        "source": [
+            [
+                "Sea Ghost Wooden Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Gleeful Vine Bangle",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            82,
+            41,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                -20.0,
+                "MATK %",
+                -20.0,
+                "Stability %",
+                10.0,
+                "Pet EXP %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Tulin",
+                160,
+                "Sugar Plain",
+                []
+            ],
+            [
+                "Tulin",
+                164,
+                "Sugar Plain",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glory Ring (Indirect)",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Aggro %",
+                -10.0,
+                "Long Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Orb Shop",
+                0,
+                "Sofya City: Government Office",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glory Ring (Magic Sword)",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "ATK %",
+                3.0,
+                "MATK %",
+                3.0,
+                "ASPD %",
+                25.0,
+                "CSPD %",
+                25.0
+            ],
+            "Magic Device only": [
+                "MaxMP",
+                500.0,
+                "ATK %",
+                3.0,
+                "MATK %",
+                3.0,
+                "ASPD %",
+                25.0,
+                "CSPD %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Orb Shop",
+                0,
+                "Sofya City: Government Office",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glory Ring (Melee)",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Aggro %",
+                -10.0,
+                "Short Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Orb Shop",
+                0,
+                "Sofya City: Government Office",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glory Ring (Memory)",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Aggro %",
+                10.0,
+                "EXP Gain %",
+                10.0,
+                "Pet EXP %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Orb Shop",
+                0,
+                "Sofya City: Government Office",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glory Ring (Restore)",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Critical Rate %",
+                10.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Orb Shop",
+                0,
+                "Sofya City: Government Office",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Glowing Sea Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            87,
+            43,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Stability %",
+                10.0,
+                "Ailment Resistance %",
+                5.0,
+                "Pet EXP %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Amiya",
+                171,
+                "Underwater Canyon: Area 1",
+                []
+            ],
+            [
+                "Amiya",
+                172,
+                "Underwater Canyon: Area 2",
+                []
+            ],
+            [
+                "Amiya",
+                173,
+                "Underwater Canyon: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Great Nature Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            95,
+            47,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                2000.0,
+                "Aggro %",
+                -10.0,
+                "Revive Time %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Treemit",
+                191,
+                "Flumen Plains",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Guidance Lantern",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            65,
+            32,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "ASPD %",
+                -10.0,
+                "Aggro %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Light Angler",
+                131,
+                "Turnus Mine: Area 1",
+                []
+            ],
+            [
+                "Light Angler",
+                132,
+                "Turnus Mine: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hallucination Spore",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            32,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Aggro %",
+                -25.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Solopy",
+                169,
+                "Turnus Mine: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Handless Watch",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -3.0,
+                "Magic Resistance %",
+                -3.0,
+                "ASPD",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 2",
+                []
+            ],
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 3",
+                []
+            ],
+            [
+                "Dirty Antique",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Happiness Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            62,
+            31,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Pet EXP %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Tylul",
+                123,
+                "Mt. Mithurna: Entrance",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hard Arm Guard",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                400.0,
+                "ASPD %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Minotaur Hoof",
+                15,
+                "Fluffy Fur",
+                25,
+                "Cracked Stone",
+                25,
+                "Cloth",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Ice Bird Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Water resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Glafur",
+                222,
+                "Algid Passage",
+                []
+            ],
+            [
+                "Glafur",
+                225,
+                "Algid Passage",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Ice Crystal Ring",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            22,
+            11,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "% stronger against Fire",
+                5.0,
+                "Water resistance %",
+                5.0,
+                "Wind resistance %",
+                -5.0
+            ]
+        },
+        "source": [
+            [
+                "Flying Quartz",
+                44,
+                "Ethos Fortress",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Knight's Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            15,
+            16,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                250.0,
+                "Aggro %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Zoktzda Stone",
+                25,
+                "Wandering Spirit",
+                5,
+                "Cloth",
+                50,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Lost Ring",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            45,
+            22,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MDEF %",
+                -15.0,
+                "Guard Power %",
+                5.0,
+                "Guard Recharge %",
+                5.0,
+                "Attack MP Recovery",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Duston",
+                88,
+                "Klaspe Slum",
+                []
+            ],
+            [
+                "Duston",
+                91,
+                "Klaspe Slum",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Lovely Ocean Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Fire resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Maringer",
+                233,
+                "Seabed",
+                []
+            ],
+            [
+                "Maringer",
+                235,
+                "Seabed",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Machina Ring",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Ailment Resistance %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Ultimate Machina",
+                129,
+                "Droma Square",
+                []
+            ],
+            [
+                "Ultimate Machina",
+                139,
+                "Droma Square",
+                []
+            ],
+            [
+                "Ultimate Machina",
+                149,
+                "Droma Square",
+                []
+            ],
+            [
+                "Ultimate Machina",
+                159,
+                "Droma Square",
+                []
+            ],
+            [
+                "Ultimate Machina",
+                179,
+                "Droma Square",
+                []
+            ],
+            [
+                "Ultimate Machina (Megiston 2018)",
+                160,
+                "Event",
+                []
+            ],
+            [
+                "Zahhak Machina (Megiston 2019)",
+                165,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Magic Swordsman's Ring",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                -25.0,
+                "MATK %",
+                -25.0,
+                "Attack MP Recovery",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Pebble",
+                99
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            5,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                2.0,
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Sour Nut",
+                5,
+                "Cloth",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                4.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Clear Water",
+                20,
+                "Cloth",
+                100,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                6.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Evil Crystal Beast Claw",
+                1,
+                "Magic Charged Branch",
+                20,
+                "Cloth",
+                200,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                8.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Twin Head Dragon Tail",
+                1,
+                "Silk Glove",
+                20,
+                "Cloth",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            101,
+            51,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                10.0,
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 193,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Corroded Mushroom Cap",
+                1,
+                "Shining Mirror",
+                2,
+                "Cloth",
+                500,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Magic Talisman VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            100,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                12.0,
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1250,
+                "Filrocas Core",
+                1,
+                "Cloud Cat Horn",
+                20,
+                "Cloth",
+                525,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Magician's Bangle",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Bead Fragment",
+                5,
+                "Wood",
+                40,
+                "Beast",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Magician's Ring",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                1000.0,
+                "ATK %",
+                -25.0,
+                "MATK %",
+                -25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                777,
+                "Pebble",
+                99
+            ]
+        }
+    },
+    {
+        "name": "Misanga",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Critical Rate %",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Mischievous Pocket Watch",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            95,
+            47,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Physical Resistance %",
+                -90.0,
+                "Magic Resistance %",
+                -90.0,
+                "ASPD",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Manshadow",
+                160,
+                "Manor of Surprises",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Muscle Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            5,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                2.0,
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Tough Meat",
+                20,
+                "Cloth",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Muscle Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                4.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Young Branch",
+                20,
+                "Cloth",
+                100,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Muscle Talisman III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                6.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Evil Crystal Beast Claw",
+                1,
+                "Akaku Sand",
+                20,
+                "Cloth",
+                200,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Muscle Talisman IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                8.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Twin Head Dragon Tail",
+                1,
+                "Monster's Big Arm",
+                20,
+                "Cloth",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Muscle Talisman V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                10.0,
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 193,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Corroded Mushroom Cap",
+                1,
+                "Lucid White Spirit Stone",
+                2,
+                "Cloth",
+                500,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Muscle Talisman VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            100,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                12.0,
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1250,
+                "Filrocas Core",
+                1,
+                "Tiger Arm Claw",
+                20,
+                "Cloth",
+                525,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Navida Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            30,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                2.0,
+                "INT",
+                2.0,
+                "AGI",
+                2.0,
+                "DEX",
+                2.0,
+                "MaxHP %",
+                -2.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "Snowman",
+                139,
+                "Noeliel Castle 2F (120-140)",
+                []
+            ],
+            [
+                "Snowman",
+                99,
+                "Noeliel Castle: 2F (80-100)",
+                []
+            ],
+            [
+                "Snowman",
+                119,
+                "Noeliel Castle: 2F (100-120)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Night Sakura Charmstone",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "ASPD",
+                250.0,
+                "CSPD",
+                750.0,
+                "Ailment Resistance %",
+                -4.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Noeliel Talisman",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                1000.0,
+                "Motion Speed %",
+                -1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                3000,
+                "Sacred Snow Crystal",
+                5,
+                "Noeliel",
+                1
+            ]
+        }
+    },
+    {
+        "name": "Nymon\\'s Presence",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "% stronger against Earth",
+                5.0,
+                "Aggro %",
+                -25.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Painless Left Arm",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            50,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "Coofer",
+                178,
+                "Nezim Wetlands",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pendulum",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Philosopher's Ring",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "INT %",
+                3.0,
+                "MaxMP",
+                300.0,
+                "CSPD %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Owl",
+                53,
+                "Land Under Cultivation: Area 1",
+                []
+            ],
+            [
+                "Owl",
+                54,
+                "Land Under Cultivation: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pico Cream Ring",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                600.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Pico",
+                125,
+                "Creme Cliff (Valentine's Day Event)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Potum Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Dodge %",
+                12.0,
+                "Light resistance %",
+                -6.0
+            ]
+        },
+        "source": [
+            [
+                "Ghost Potum",
+                66,
+                "Calle mort",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Powered Gear",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                1.0,
+                "DEF %",
+                -3.0,
+                "MDEF %",
+                -3.0,
+                "Dodge %",
+                -3.0,
+                "Critical Damage %",
+                1.0,
+                "Unsheathe Attack %",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Prajna Charmstone",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "INT %",
+                3.0,
+                "MATK %",
+                4.0,
+                "CSPD %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10000,
+                "Empty Charmstone",
+                10,
+                "Sheep Crystal",
+                5,
+                "Cerabes",
+                1,
+                "Mana",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Proof of Resistance",
+        "origin": -1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Proof of Victory",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": []
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Pumpkin Ring",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                300.0,
+                "Critical Rate",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Pumpkin Diamond",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Ring of Greed",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "ATK %",
+                -25.0,
+                "MATK %",
+                -25.0,
+                "Attack MP Recovery",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Ancient Gold Coin",
+                1,
+                "Relic Scrap",
+                99
+            ]
+        }
+    },
+    {
+        "name": "Ring of Universe",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                1.0,
+                "INT",
+                1.0,
+                "VIT",
+                1.0,
+                "AGI",
+                1.0,
+                "DEX",
+                1.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Robust Charmstone",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                4.0,
+                "Stability %",
+                3.0,
+                "Critical Rate %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10000,
+                "Empty Charmstone",
+                10,
+                "Bloody Stone",
+                5,
+                "Marchitar",
+                1,
+                "Mana",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Rock Horn Beast Bangle",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                20.0,
+                "Anticipate %",
+                5.0,
+                "Fractional Barrier %",
+                10.0
+            ],
+            "Heavy Armor only": [
+                "Physical Resistance %",
+                20.0,
+                "Anticipate %",
+                5.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Petraceras",
+                217,
+                "Kabla Jabali",
+                []
+            ],
+            [
+                "Petraceras",
+                219,
+                "Kabla Jabali",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Rosetta Shard",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -2.0,
+                "Magic Resistance %",
+                -2.0,
+                "CSPD",
+                100.0
+            ]
+        },
+        "source": [
+            [
+                "Golden Casket",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Rosetta Stone",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -10.0,
+                "Magic Resistance %",
+                -10.0,
+                "CSPD",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Golden Casket",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sable Bracelet",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            92,
+            46,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Stability %",
+                5.0,
+                "DEF %",
+                5.0,
+                "Aggro %",
+                -5.0
+            ]
+        },
+        "source": [
+            [
+                "Flying Egg",
+                181,
+                "Sable Plains",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sacred Bell Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                500.0,
+                "Dark resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Sentreast",
+                180,
+                "Tomte Pavillion (170-190)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sailor's Talisman",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                500.0,
+                "MaxMP",
+                250.0,
+                "% stronger against Water",
+                2.0,
+                "Fire resistance %",
+                4.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sakura Bear Charmstone",
+        "origin": -1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            112,
+            56,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "DEF %",
+                10.0,
+                "MDEF %",
+                10.0,
+                "Ailment Resistance %",
+                10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sakura Charmstone",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "ASPD",
+                250.0,
+                "CSPD",
+                250.0,
+                "Ailment Resistance %",
+                -2.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Salmon Jerky Talisman",
+        "origin": -1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            117,
+            58,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Stability %",
+                10.0,
+                "Magic Pierce %",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sand Veil Ring",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            22,
+            11,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Earth resistance %",
+                5.0,
+                "Evasion Recharge %",
+                1.0,
+                "Aggro %",
+                -30.0
+            ]
+        },
+        "source": [
+            [
+                "Sand Frosch",
+                46,
+                "Centerio Highlands",
+                []
+            ],
+            [
+                "Sand Frosch",
+                47,
+                "Centerio Highlands",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scarecrow Marker",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Aggro %",
+                15.0,
+                "Critical Rate",
+                15.0
+            ],
+            "Shield only": [
+                "MaxMP",
+                300.0,
+                "Aggro %",
+                15.0,
+                "Critical Rate",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Crow Killer",
+                130,
+                "Cookie Road",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scary Face Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Light resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Fangs",
+                236,
+                "Path to the Deep Sea",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sea Fog Compass",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                10000.0,
+                "CSPD",
+                1000.0,
+                "Ailment Resistance %",
+                -50.0,
+                "Aggro %",
+                -25.0
+            ]
+        },
+        "source": [
+            [
+                "Sea Ghost Wooden Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Seahorse Bangle",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Critical Rate",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Famarin",
+                239,
+                "Espuma Dome: Area 1",
+                []
+            ],
+            [
+                "Famarin",
+                240,
+                "Espuma Dome: Area 2",
+                []
+            ],
+            [
+                "Famarin",
+                241,
+                "Espuma Dome: Area 3",
+                []
+            ],
+            [
+                "Bangrudom (Coffee)",
+                290,
+                "El Scaro: Back Alley",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sealing Bandage",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                -50.0,
+                "INT %",
+                -50.0,
+                "VIT %",
+                -50.0,
+                "AGI %",
+                -50.0,
+                "DEX %",
+                -50.0
+            ]
+        },
+        "source": [
+            [
+                "Golden Casket",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Seashell Choco Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "CSPD",
+                300.0,
+                "Flinch Unavailable",
+                1.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Shell Kraken",
+                74,
+                "Sweet Hades",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Shield Plus",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                10.0,
+                "Guard Recharge %",
+                10.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Snow Potum Doll",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                300.0,
+                "Accuracy %",
+                12.0,
+                "Dark resistance %",
+                -6.0
+            ]
+        },
+        "source": [
+            [
+                "Milk Potum",
+                67,
+                "Polde Ice Valley",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sofys Talisman",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sofys Talisman II",
+        "origin": -1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Solar Ring",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Light resistance %",
+                5.0,
+                "Dark resistance %",
+                -10.0,
+                "Additional Magic %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Rainy Season Event",
+                null,
+                "Event",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Speed Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            5,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                2.0,
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Wind Slash Feather",
+                5,
+                "Cloth",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Speed Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                4.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Little Wyvern Wing",
+                20,
+                "Cloth",
+                100,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Speed Talisman III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                6.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Evil Crystal Beast Claw",
+                1,
+                "Thin Fabric of Netherworld",
+                20,
+                "Cloth",
+                200,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Speed Talisman IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                8.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Twin Head Dragon Tail",
+                1,
+                "Long Thin Tail",
+                20,
+                "Cloth",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Speed Talisman V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            103,
+            53,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                10.0,
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 193,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Corroded Mushroom Cap",
+                1,
+                "Squawker Horn",
+                2,
+                "Cloth",
+                500,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Speed Talisman VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            100,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                12.0,
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1250,
+                "Filrocas Core",
+                1,
+                "Short Red Claw",
+                20,
+                "Cloth",
+                525,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Spirit Tree Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            42,
+            21,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Attack MP Recovery",
+                5.0,
+                "Additional Magic %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Kodama",
+                85,
+                "Garden of Sublimation: Area 1",
+                []
+            ],
+            [
+                "Kodama",
+                85,
+                "Garden of Sublimation: Area 2",
+                []
+            ],
+            [
+                "Kodama",
+                88,
+                "Garden of Sublimation: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Spy's Talisman",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            15,
+            16,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Aggro %",
+                -20.0
+            ]
+        },
+        "source": [
+            [
+                "Wooly",
+                22,
+                "Douce Hamlet",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Spy's Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            15,
+            16,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                250.0,
+                "Aggro %",
+                -25.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Fire Resistant Fabric",
+                25,
+                "Clot of Black Mist",
+                5,
+                "Cloth",
+                50,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            5,
+            5,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                2.0,
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Hard Dragon Skin",
+                20,
+                "Cloth",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman II",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            25,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                4.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Dented Little Helmet",
+                20,
+                "Cloth",
+                100,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman III",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            50,
+            50,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                6.0,
+                "MaxMP",
+                400.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Evil Crystal Beast Claw",
+                1,
+                "Tough Carapace",
+                20,
+                "Cloth",
+                200,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman IV",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                8.0,
+                "MaxMP",
+                500.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Twin Head Dragon Tail",
+                1,
+                "Iron Carapace",
+                20,
+                "Cloth",
+                300,
+                "Wood",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman V",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            102,
+            52,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                10.0,
+                "MaxMP",
+                600.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 193,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Corroded Mushroom Cap",
+                1,
+                "Lizard Spirit Stone",
+                2,
+                "Cloth",
+                500,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Stamina Talisman VI",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            100,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                12.0,
+                "MaxMP",
+                700.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1250,
+                "Filrocas Core",
+                1,
+                "Geometric Armor Bit",
+                20,
+                "Cloth",
+                525,
+                "Wood",
+                100
+            ]
+        }
+    },
+    {
+        "name": "Starfish Shuriken",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            122,
+            61,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Stability %",
+                -10.0,
+                "Critical Rate",
+                20.0,
+                "Physical Pierce %",
+                5.0,
+                "Unsheathe Attack %",
+                5.0
+            ],
+            "Ninjutsu Scroll only": [
+                "Stability %",
+                -10.0,
+                "Critical Rate",
+                20.0,
+                "Physical Pierce %",
+                5.0,
+                "Unsheathe Attack %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Coraxic",
+                225,
+                "Labrum Atoll",
+                []
+            ],
+            [
+                "Coraxic",
+                227,
+                "Labrum Atoll",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steeplejack Talisman",
+        "origin": -1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            32,
+            16,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "VIT",
+                1.0,
+                "AGI",
+                1.0,
+                "MaxMP",
+                300.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Stoodie's Ring I",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Gem Dust Drop Amount %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Experiment Report I",
+                30,
+                "Normal Gem",
+                20,
+                "Magic Armor Fragment",
+                10,
+                "Metal",
+                250
+            ]
+        }
+    },
+    {
+        "name": "Stoodie's Ring II",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "ATK %",
+                -10.0,
+                "MATK %",
+                -10.0,
+                "Gem Dust Drop Amount %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Experiment Report I",
+                30,
+                "Normal Gem II",
+                20,
+                "Big Scrap",
+                10,
+                "Metal",
+                500
+            ]
+        }
+    },
+    {
+        "name": "Stoodie's Ring III",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "ATK %",
+                -20.0,
+                "MATK %",
+                -20.0,
+                "Gem Dust Drop Amount %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                500,
+                "Experiment Report II",
+                30,
+                "Normal Gem III",
+                20,
+                "Magic Cannon Part",
+                10,
+                "Metal",
+                750
+            ]
+        }
+    },
+    {
+        "name": "Supple Ring",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Aggro %",
+                5.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Strange Tentacle",
+                166,
+                "Avant Plastida: Area 1",
+                []
+            ],
+            [
+                "Strange Tentacle",
+                167,
+                "Avant Plastida: Area 2",
+                []
+            ],
+            [
+                "Strange Tentacle",
+                168,
+                "Avant Plastida: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Talisman",
+        "origin": 1,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "El Scaro",
+                []
+            ],
+            [
+                "NPC",
+                0,
+                "Hora Diomedea",
+                []
+            ],
+            [
+                "NPC",
+                0,
+                "Nov Saterica",
+                []
+            ],
+            [
+                "NPC",
+                0,
+                "Draco Town",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Talisman of Deep Silence",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Earth resistance %",
+                30.0,
+                "Neutral Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Doridi",
+                244,
+                "Carretera Mar",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Time Warp Watch",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                -9.0,
+                "Magic Resistance %",
+                -9.0,
+                "ASPD",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Dirty Antique",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Toe Beans Talisman",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                200.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0,
+                "Pet EXP %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Pond Snake",
+                171,
+                "Chocolate Reservoir",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Toughness Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                20.0,
+                "Critical Damage %",
+                -5.0,
+                "Aggro %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Corroded Fighter",
+                81,
+                "Spring of Rebirth: Lower",
+                []
+            ],
+            [
+                "Corroded Fighter",
+                81,
+                "Spring of Rebirth: Middle",
+                []
+            ],
+            [
+                "Corroded Fighter",
+                85,
+                "Spring of Rebirth: Upper",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Unsheathe Bangle",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                3.0,
+                "Accuracy",
+                3.0,
+                "Unsheathe Attack",
+                30.0,
+                "Unsheathe Attack %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Grass Dragon's Petal",
+                1,
+                "Bear Fur",
+                1,
+                "Metal",
+                125,
+                "Mana",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Valley Guardian Stone",
+        "origin": 2,
+        "base": 0.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            102,
+            51,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Resistance %",
+                7.0,
+                "Magic Resistance %",
+                6.0,
+                "Ailment Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Acamia",
+                195,
+                "Vulcani Crater Base",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Warrior's Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10,
+            11,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                100.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Calron",
+                16,
+                "Witeka Scorched Plains",
+                []
+            ],
+            [
+                "Calron",
+                17,
+                "Witeka Scorched Plains",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Warrior's Bangle",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            10,
+            11,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                200.0,
+                "Attack MP Recovery",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Small Article",
+                5,
+                "Metal",
+                40,
+                "Beast",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Weaken Talisman",
+        "origin": 1,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                -100.0,
+                "INT %",
+                -100.0,
+                "VIT %",
+                -100.0,
+                "AGI %",
+                -100.0,
+                "DEX %",
+                -100.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                750,
+                "Death Truffle",
+                1,
+                "Paralyzing Powder",
+                2,
+                "Sand Mole Meat",
+                4,
+                "Boss Colon",
+                8
+            ]
+        }
+    },
+    {
+        "name": "Yozakura Bangle",
+        "origin": 2,
+        "base": 0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Physical Barrier",
+                1000.0,
+                "Magic Barrier",
+                1000.0,
+                "Barrier Cooldown %",
+                -150.0
+            ]
+        },
+        "source": [
+            [
+                "Cerabes (Hanami 2017)",
+                60,
+                "Hanami Venue: Summit",
+                []
+            ],
+            [
+                "Cerabes (Hanami 2017)",
+                80,
+                "Hanami Venue: Summit",
+                []
+            ],
+            [
+                "Cerabes (Hanami 2017)",
+                100,
+                "Hanami Venue: Summit",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Bangle",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Short Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box II",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Ring",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Long Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box II",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Bangle II",
+        "origin": 2,
+        "base": 2.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box IV",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Ring II",
+        "origin": 2,
+        "base": 2.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Ailment Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box IV",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Bangle III",
+        "origin": 2,
+        "base": 3.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            112,
+            56,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                600.0,
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box VI",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Ring III",
+        "origin": 2,
+        "base": 3.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            112,
+            56,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                600.0,
+                "EXP Gain %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box VI",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Mistletoe Talisman",
+        "origin": 2,
+        "base": 6.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            17,
+            17,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                6.0,
+                "Physical Resistance %",
+                4.0,
+                "Magic Resistance %",
+                4.0,
+                "Neutral Resistance %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "Pova",
+                32,
+                "Lonogo Canyon",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Beast Talisman",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            55,
+            27,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                20.0,
+                "Light resistance %",
+                4.0,
+                "ATK UP (VIT %)",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Proto Leon",
+                115,
+                "Singolare Ruins: 3rd Floor",
+                []
+            ],
+            [
+                "Proto Leon",
+                105,
+                "Singolare Ruins: 3rd Floor",
+                []
+            ],
+            [
+                "Proto Leon",
+                125,
+                "Singolare Ruins: 3rd Floor",
+                []
+            ],
+            [
+                "Proto Leon",
+                135,
+                "Singolare Ruins: 3rd Floor",
+                []
+            ],
+            [
+                "Proto Leon",
+                155,
+                "Singolare Ruins: 3rd Floor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Road Sheep Talisman",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            92,
+            46,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Natural MP Regen %",
+                5.0,
+                "MaxMP",
+                300.0,
+                "Stability %",
+                5.0,
+                "CSPD %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Bo Peep",
+                187,
+                "Country Road",
+                []
+            ],
+            [
+                "Bo Peep",
+                185,
+                "Country Road",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Stump Drum",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            102,
+            51,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                25.0,
+                "Critical Rate",
+                25.0,
+                "Aggro %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Bombor",
+                205,
+                "Nebula Plain",
+                []
+            ],
+            [
+                "Bombor",
+                208,
+                "Nebula Plain",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Twin-Head Dragon Talisman",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            65,
+            32,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "ATK %",
+                -3.0,
+                "MATK %",
+                -3.0,
+                "Flinch Unavailable",
+                1.0,
+                "Tumble Unavailable",
+                1.0,
+                "Stun Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Zahhak Machina",
+                130,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                140,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                150,
+                "Lufenas Mansion: Hall",
+                []
+            ],
+            [
+                "Zahhak Machina",
+                170,
+                "Lufenas Mansion: Hall",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Smart Puppy Talisman",
+        "origin": -1,
+        "base": 11.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "CSPD %",
+                30.0,
+                "Neutral Resistance %",
+                20.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Specistida",
+        "origin": 2,
+        "base": 15.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            95,
+            47,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                5.0,
+                "Physical Pierce %",
+                5.0,
+                "Aggro %",
+                -5.0
+            ]
+        },
+        "source": [
+            [
+                "Juvestida",
+                186,
+                "Nov Diela Area 1",
+                []
+            ],
+            [
+                "Juvestida",
+                187,
+                "Nov Diela Area 2",
+                []
+            ],
+            [
+                "Juvestida",
+                188,
+                "Nov Diela Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dark Night Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Dark resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Earustica",
+                158,
+                "Pupalov Sector",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dragon Ring",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            105,
+            52,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                3000.0,
+                "Attack MP Recovery",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Plodocus",
+                211,
+                "Stairway to Vital Point",
+                []
+            ],
+            [
+                "Plodocus",
+                213,
+                "Stairway to Vital Point",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scorching Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Fire resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Bombermeow",
+                149,
+                "Fabriska Sector",
+                []
+            ],
+            [
+                "Bombermeow",
+                151,
+                "Fabriska Sector",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Snowland Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Water resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Acernix",
+                135,
+                "Garden of Ice & Snow",
+                []
+            ],
+            [
+                "Acernix",
+                138,
+                "Garden of Ice & Snow",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Spring Breeze Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Wind resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Ovinymon",
+                169,
+                "Celarra Plateau",
+                []
+            ],
+            [
+                "Ovinymon",
+                172,
+                "Celarra Plateau",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sunshine Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Light resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Climber Potum",
+                166,
+                "Inje Village",
+                []
+            ],
+            [
+                "Climber Potum",
+                169,
+                "Inje Village",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Tree Talisman",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            75,
+            37,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                500.0,
+                "Earth resistance %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Monstletoe",
+                152,
+                "Altoale Sector",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hard Shell Talisman",
+        "origin": 2,
+        "base": 21.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            57,
+            28,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "DEF %",
+                10.0,
+                "MDEF %",
+                -30.0,
+                "Physical Resistance %",
+                10.0,
+                "Aggro %",
+                10.0,
+                "Physical Barrier",
+                1000.0
+            ]
+        },
+        "source": [
+            [
+                "Squnail",
+                111,
+                "Ultimea Sewer: South",
+                []
+            ],
+            [
+                "Squnail",
+                115,
+                "Ultimea Sewer: South",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Big Tree Talisman",
+        "origin": 1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Earth resistance %",
+                15.0,
+                "Ailment Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                850,
+                "White Heart",
+                10,
+                "Titan Heart",
+                10,
+                "Aged Sap",
+                40,
+                "Cloth",
+                425
+            ]
+        }
+    },
+    {
+        "name": "Blue Pearl Talisman",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "INT %",
+                1.0,
+                "AGI %",
+                1.0,
+                "DEX %",
+                1.0,
+                "MaxMP",
+                500.0,
+                "Magic Pierce %",
+                5.0,
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Water City Jewel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Enlightened Bangle",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                3.0,
+                "INT %",
+                3.0,
+                "VIT %",
+                3.0,
+                "AGI %",
+                3.0,
+                "DEX %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Meditating Potum",
+                132,
+                "Heresy Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Green Pearl Talisman",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "INT %",
+                1.0,
+                "AGI %",
+                1.0,
+                "DEX %",
+                1.0,
+                "MaxMP",
+                500.0,
+                "Critical Rate",
+                10.0,
+                "Weapon ATK %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Water City Jewel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Moxiz Strap",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            45,
+            22,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "ATK %",
+                1.0,
+                "MATK %",
+                1.0,
+                "Fire resistance %",
+                -3.0,
+                "Water resistance %",
+                -3.0,
+                "Wind resistance %",
+                -3.0,
+                "Earth resistance %",
+                -3.0
+            ]
+        },
+        "source": [
+            [
+                "Moxiz",
+                91,
+                "Cradle of Soldier: Inside",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pearl Talisman",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "INT %",
+                1.0,
+                "AGI %",
+                1.0,
+                "DEX %",
+                1.0,
+                "MaxMP",
+                500.0,
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Water City Jewel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Purple Pearl Talisman",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "INT %",
+                1.0,
+                "DEX %",
+                1.0,
+                "MaxMP",
+                500.0,
+                "Stability %",
+                5.0,
+                "Critical Rate",
+                10.0,
+                "AGI %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Water City Jewel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Red Pearl Talisman",
+        "origin": 2,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "INT %",
+                1.0,
+                "AGI %",
+                1.0,
+                "DEX %",
+                1.0,
+                "MaxMP",
+                500.0,
+                "Physical Pierce %",
+                5.0,
+                "Critical Rate",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Water City Jewel Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Broker's Insignia",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            135,
+            67,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Stability %",
+                -20.0,
+                "Dodge %",
+                -20.0,
+                "Aggro %",
+                20.0,
+                "Anticipate %",
+                10.0,
+                "Guard Break %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Bangrudom (Coffee)",
+                290,
+                "El Scaro: Back Alley",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steel Ring (Flash)",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1500.0,
+                "Critical Rate %",
+                60.0,
+                "MaxMP",
+                300.0
+            ]
+        },
+        "source": [
+            [
+                "Vintage Iron Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steel Ring (Magic)",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1500.0,
+                "MaxMP",
+                300.0,
+                "MATK %",
+                5.0,
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Vintage Iron Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steel Ring (Power)",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1500.0,
+                "MaxMP",
+                300.0,
+                "ATK %",
+                5.0,
+                "Aggro %",
+                -10.0
+            ]
+        },
+        "source": [
+            [
+                "Vintage Iron Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steel Ring (Resist)",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1500.0,
+                "MaxMP",
+                300.0,
+                "Physical Resistance %",
+                15.0,
+                "Magic Resistance %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Vintage Iron Box",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    }
+]

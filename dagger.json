@@ -1,0 +1,2796 @@
+[
+    {
+        "name": "Goddess's Dagger",
+        "origin": 2,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                5.0,
+                "MaxMP",
+                100.0,
+                "Physical Resistance %",
+                -10.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Imitacia",
+                109,
+                "Dark Castle: Grand Hall",
+                []
+            ],
+            [
+                "Imitacia",
+                99,
+                "Dark Castle: Grand Hall",
+                []
+            ],
+            [
+                "Imitacia",
+                119,
+                "Dark Castle: Grand Hall",
+                []
+            ],
+            [
+                "Imitacia",
+                129,
+                "Dark Castle: Grand Hall",
+                []
+            ],
+            [
+                "Imitacia",
+                149,
+                "Dark Castle: Grand Hall",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Throwing Knife",
+        "origin": -1,
+        "base": 1.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "INT",
+                1.0,
+                "Evasion Recharge %",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Caravan Dagger",
+        "origin": 1,
+        "base": 4.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                5,
+                "Short Nail",
+                3,
+                "Metal",
+                3
+            ]
+        }
+    },
+    {
+        "name": "Power Knife",
+        "origin": 1,
+        "base": 8.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                2.0,
+                "Weapon ATK",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                50,
+                "Mushroom Spore",
+                32,
+                "Metal",
+                20,
+                "Wood",
+                5
+            ]
+        }
+    },
+    {
+        "name": "Twilight Dagger",
+        "origin": 2,
+        "base": 10.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "ASPD %",
+                10.0,
+                "CSPD %",
+                10.0,
+                "Additional Melee %",
+                10.0,
+                "Additional Magic %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Twilight Dragon",
+                100,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                90,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                110,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                120,
+                "Fort Solfini: Roof",
+                []
+            ],
+            [
+                "Twilight Dragon",
+                140,
+                "Fort Solfini: Roof",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dagger",
+        "origin": 1,
+        "base": 12.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Dodge",
+                3.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                100,
+                "Brutal Dragon Claw",
+                2,
+                "Little Wyvern Wing",
+                5,
+                "Metal",
+                40,
+                "Wood",
+                10
+            ]
+        }
+    },
+    {
+        "name": "Thorny Twig",
+        "origin": 2,
+        "base": 14.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            25,
+            12,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                1.0
+            ],
+            "Bowgun only": [
+                "Stability %",
+                7.0
+            ]
+        },
+        "source": [
+            [
+                "Shell Mask",
+                23,
+                "Nisel Mountain",
+                []
+            ],
+            [
+                "Shell Mask",
+                27,
+                "Nisel Mountain: Mountainside",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Flower Bud Dagger",
+        "origin": 2,
+        "base": 15.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MATK %",
+                1.0,
+                "CSPD",
+                300.0,
+                "Ailment Resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Floragonet",
+                129,
+                "Cookie Road",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Magic Dagger",
+        "origin": 1,
+        "base": 15.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            30,
+            15,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                50.0,
+                "Evasion Recharge %",
+                5.0,
+                "Attack MP Recovery",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Broken Magic Lantern",
+                1,
+                "Four-leaf Clover",
+                1,
+                "Metal",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Heavy Knife",
+        "origin": 1,
+        "base": 17.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                3.0,
+                "Accuracy",
+                -3.0,
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                150,
+                "Iron",
+                1,
+                "Heated Fang",
+                5,
+                "Metal",
+                50,
+                "Wood",
+                25
+            ]
+        }
+    },
+    {
+        "name": "Knife Shaft",
+        "origin": -1,
+        "base": 20.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Critical Damage",
+                1.0,
+                "Evasion Recharge %",
+                10.0
+            ],
+            "Bowgun only": [
+                "Weapon ATK",
+                30.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Storm Dagger",
+        "origin": 2,
+        "base": 20.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            35,
+            17,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Dodge %",
+                7.0,
+                "ASPD %",
+                7.0,
+                "Critical Rate %",
+                7.0
+            ]
+        },
+        "source": [
+            [
+                "Forestia",
+                49,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                39,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                59,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                69,
+                "Land Of Chaos",
+                []
+            ],
+            [
+                "Forestia",
+                89,
+                "Land Of Chaos",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Parrying Dagger",
+        "origin": 1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                5.0,
+                "Guard Power %",
+                15.0,
+                "Guard Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                200,
+                "Runestone",
+                1,
+                "Fatigued Blade",
+                25,
+                "Metal",
+                50,
+                "Wood",
+                50
+            ]
+        }
+    },
+    {
+        "name": "Parrying Dagger ZC",
+        "origin": -1,
+        "base": 22.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Guard Power %",
+                20.0,
+                "Guard Recharge %",
+                20.0
+            ],
+            "Bowgun only": [
+                "Critical Rate",
+                5.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Army Knife",
+        "origin": 1,
+        "base": 27.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "DEX",
+                2.0,
+                "MaxMP",
+                100.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Goblin Claw",
+                25,
+                "Saham Crystal",
+                20,
+                "Metal",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Magical Dagger",
+        "origin": -1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                300.0,
+                "Additional Magic %",
+                70.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Sailor's Dagger",
+        "origin": -1,
+        "base": 30.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "MATK %",
+                1.0,
+                "Short Range Damage %",
+                -3.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Lightweight Knife",
+        "origin": 1,
+        "base": 33.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Magic Resistance %",
+                -10.0,
+                "ASPD",
+                100.0,
+                "Evasion Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                300,
+                "Outer World Nail",
+                25,
+                "Withered Leaf",
+                20,
+                "Metal",
+                75,
+                "Beast",
+                75
+            ]
+        }
+    },
+    {
+        "name": "Blood Drain Knife",
+        "origin": 1,
+        "base": 40.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            70,
+            35,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                5.0,
+                "Stability %",
+                -10.0,
+                "Attack MP Recovery",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                350,
+                "Tree Spirit Soul",
+                10,
+                "Broken Dual Edge",
+                2,
+                "Beast",
+                110,
+                "Wood",
+                65
+            ]
+        }
+    },
+    {
+        "name": "Marshmallow Knife",
+        "origin": 1,
+        "base": 45.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Accuracy %",
+                10.0,
+                "Evasion Recharge %",
+                10.0
+            ],
+            "Bowgun only": [
+                "Stability %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                130,
+                "Fluffy Marshmallow",
+                10,
+                "Super Fluffy Coat Bit",
+                2,
+                "Mana",
+                130
+            ]
+        }
+    },
+    {
+        "name": "Fin Knife",
+        "origin": 2,
+        "base": 47.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            80,
+            40,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Stability %",
+                -10.0,
+                "Critical Damage",
+                5.0,
+                "Fire resistance %",
+                -20.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Finpen",
+                83,
+                "Spring of Rebirth: Lower",
+                []
+            ],
+            [
+                "Finpen",
+                83,
+                "Spring of Rebirth: Middle",
+                []
+            ],
+            [
+                "Finpen",
+                85,
+                "Spring of Rebirth: Upper",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Kukri",
+        "origin": 2,
+        "base": 50.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            85,
+            42,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                7.0,
+                "Evasion Recharge %",
+                10.0,
+                "Additional Melee %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Corroded Knight",
+                78,
+                "Trace of Dark River",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Kukri",
+        "origin": 1,
+        "base": 50.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            85,
+            42,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                10.0,
+                "Evasion Recharge %",
+                10.0,
+                "Additional Melee %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                400,
+                "Pointed Blade",
+                30,
+                "Rusty Huge Axe",
+                30,
+                "Mysterious Metal Bit",
+                30,
+                "Wood",
+                200
+            ]
+        }
+    },
+    {
+        "name": "Bush Knife",
+        "origin": 1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                6.0,
+                "ASPD %",
+                -2.0,
+                "Weapon ATK",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                250,
+                "Saham Crystal",
+                25,
+                "Mineral Scissor",
+                2,
+                "Metal",
+                125
+            ]
+        }
+    },
+    {
+        "name": "Demi Knife",
+        "origin": 2,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            90,
+            45,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                150.0,
+                "Critical Rate",
+                5.0,
+                "Evasion Recharge %",
+                -30.0,
+                "Flinch Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Demi Machina",
+                86,
+                "Artillery Defense Line",
+                []
+            ],
+            [
+                "Demi Marchina",
+                87,
+                "Artillery Defense Line",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dully Glowing Knife",
+        "origin": -1,
+        "base": 54.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "AGI",
+                2.0,
+                "Critical Rate",
+                4.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    },
+    {
+        "name": "Chocolate Knife",
+        "origin": 1,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                15.0,
+                "Evasion Recharge %",
+                5.0,
+                "Tumble Unavailable",
+                1.0,
+                "Fractional Barrier %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                40,
+                "Chocolate Chip",
+                9,
+                "Mysterious Cacao",
+                3,
+                "Wood",
+                40
+            ]
+        }
+    },
+    {
+        "name": "Cursed Dagger",
+        "origin": 2,
+        "base": 60.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                -200.0,
+                "Physical Pierce %",
+                5.0,
+                "Ailment Resistance %",
+                -5.0,
+                "Weapon ATK",
+                13.0
+            ]
+        },
+        "source": [
+            [
+                "Death Zombeast",
+                42,
+                "Ethos Fortress",
+                []
+            ],
+            [
+                "Death Zombeast",
+                45,
+                "Ethos Fortress",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sorting Knife",
+        "origin": 2,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                5.0,
+                "Dark resistance %",
+                -5.0,
+                "Anticipate %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Sorter Golem",
+                125,
+                "Joulu House: Gift Room (Lv 100)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sorting Knife",
+        "origin": 2,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                10.0,
+                "Dark resistance %",
+                -10.0,
+                "Anticipate %",
+                2.0
+            ]
+        },
+        "source": [
+            [
+                "Sorter Golem",
+                146,
+                "Joulu House: Gift Room (Lv 130)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sorting Knife",
+        "origin": 2,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                15.0,
+                "Dark resistance %",
+                -15.0,
+                "Anticipate %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Sorter Golem",
+                167,
+                "Joulu House: Gift Room (Lv 150)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Trench Knife",
+        "origin": 2,
+        "base": 60.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                5.0,
+                "DEF",
+                15.0,
+                "Guard Break %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Coronella",
+                162,
+                "Inanis Wilderness",
+                []
+            ],
+            [
+                "Coronella",
+                166,
+                "Inanis Wilderness",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Dagger",
+        "origin": 2,
+        "base": 62.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            100,
+            50,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                100.0,
+                "Evasion Recharge %",
+                10.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box I",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Biscuit Knife",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                10.0,
+                "MaxMP",
+                200.0,
+                "Aggro %",
+                -20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                40,
+                "Candy Fragment",
+                9,
+                "Mysterious Fruit",
+                3,
+                "Mana",
+                40
+            ]
+        }
+    },
+    {
+        "name": "Dive Knife",
+        "origin": 1,
+        "base": 70.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                12.0,
+                "Wind resistance %",
+                -9.0,
+                "Evasion Recharge %",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                1000,
+                "Deep-Sea Coral",
+                10,
+                "Seadevil Coral",
+                3,
+                "Metal",
+                150,
+                "Mana",
+                150
+            ]
+        }
+    },
+    {
+        "name": "Rat Knife",
+        "origin": 2,
+        "base": 71.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            110,
+            55,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                5.0,
+                "ASPD",
+                250.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Soldier Rat",
+                107,
+                "Ultimea Sewer: East",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Odd-Shaped Knife",
+        "origin": 2,
+        "base": 72.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            60,
+            30,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "MDEF %",
+                -33.0,
+                "Critical Damage",
+                3.0,
+                "Critical Damage %",
+                3.0
+            ]
+        },
+        "source": [
+            [
+                "Nurethoth",
+                76,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                66,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                86,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                96,
+                "Gate to Another World: Front",
+                []
+            ],
+            [
+                "Nurethoth",
+                116,
+                "Gate to Another World: Front",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sealing Talisman",
+        "origin": 2,
+        "base": 72.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MATK %",
+                3.0,
+                "CSPD %",
+                10.0,
+                "Light resistance %",
+                -30.0
+            ],
+            "Staff only": [
+                "Light Resistance",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Besy",
+                182,
+                "Arche Valley: Area 1",
+                []
+            ],
+            [
+                "Besy",
+                183,
+                "Arche Valley: Area 2",
+                []
+            ],
+            [
+                "Besy",
+                184,
+                "Arche Valley: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Guardian Dagger",
+        "origin": 2,
+        "base": 80.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP %",
+                10.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Galdon",
+                129,
+                "Buried Tower: Collapsed Top",
+                []
+            ],
+            [
+                "Galdon",
+                131,
+                "Buried Tower: Inside",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Wood Choco Dagger",
+        "origin": 2,
+        "base": 82.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            120,
+            60,
+            "Medicine"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                400.0,
+                "Evasion Recharge %",
+                4.0,
+                "Attack MP Recovery",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "Gramp",
+                76,
+                "Sweet Hades",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Chaos Knife",
+        "origin": 2,
+        "base": 84.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            125,
+            62,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0,
+                "MaxMP",
+                -100.0,
+                "Neutral Resistance %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Mozto Machina",
+                114,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                124,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                134,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                144,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ],
+            [
+                "Mozto Machina",
+                164,
+                "Large Demi Machina Factory: Deepest Part",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Antique Knife",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {},
+        "source": [
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 2",
+                []
+            ],
+            [
+                "Cursed Clock",
+                71,
+                "Magic Waste Site: Area 3",
+                []
+            ],
+            [
+                "Dirty Antique",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Holy Knife",
+        "origin": 2,
+        "base": 100.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            140,
+            70,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MATK %",
+                2.0,
+                "Dark resistance %",
+                10.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Destiny Cube",
+                146,
+                "Hall of Special Gods",
+                []
+            ],
+            [
+                "Destiny Cube",
+                147,
+                "Hall of Construction Gods",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Lil Empress Dagger",
+        "origin": 2,
+        "base": 104.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            145,
+            72,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                10.0,
+                "Water resistance %",
+                -15.0,
+                "Evasion Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Coenubia (YK Wifey)",
+                140,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                150,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                160,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                170,
+                "Ultimea Palace: Throne",
+                []
+            ],
+            [
+                "Venena Coenubia (YK Wifey)",
+                190,
+                "Ultimea Palace: Throne",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Icy Dagger",
+        "origin": 2,
+        "base": 110.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            150,
+            75,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Water resistance %",
+                10.0,
+                "Tumble Unavailable",
+                1.0
+            ],
+            "1-Handed Sword only": [
+                "% stronger against Fire",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Acernix",
+                141,
+                "Tomte Pavillion (130-150)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Insect Knife",
+        "origin": 2,
+        "base": 110.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                30.0,
+                "ASPD",
+                200.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Insector",
+                162,
+                "Labilans Sector: Area 1",
+                []
+            ],
+            [
+                "Insector",
+                163,
+                "Labilans Sector: Area 2",
+                []
+            ],
+            [
+                "Insector",
+                164,
+                "Labilans Sector: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sakura Princess Dagger",
+        "origin": 2,
+        "base": 110.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            1,
+            2,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                100.0,
+                "Stability %",
+                5.0,
+                "Guard Power %",
+                25.0,
+                "Guard Recharge %",
+                25.0
+            ]
+        },
+        "source": [
+            [
+                "Mimesia (Easy)",
+                120,
+                "Sakura Castle Donjon: Top",
+                []
+            ],
+            [
+                "Mimesia (Normal)",
+                140,
+                "Sakura Castle Donjon: Top",
+                []
+            ],
+            [
+                "Mimesia (Hard)",
+                160,
+                "Sakura Castle Donjon: Top",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Trick Dagger",
+        "origin": 2,
+        "base": 121.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                150.0,
+                "Additional Magic %",
+                75.0
+            ]
+        },
+        "source": [
+            [
+                "Zarth",
+                175,
+                "Zarth's Mansion: Back",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Dagger II",
+        "origin": 2,
+        "base": 126.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            165,
+            82,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                200.0,
+                "Evasion Recharge %",
+                12.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box III",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Apple Branch Dagger",
+        "origin": 2,
+        "base": 126.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            165,
+            82,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "ASPD %",
+                5.0,
+                "% stronger against Wind",
+                5.0,
+                "Wind resistance %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Coryn",
+                161,
+                "Sugar Plain",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sashimi Knife",
+        "origin": 2,
+        "base": 130.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            160,
+            80,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "% stronger against Water",
+                5.0,
+                "Water resistance %",
+                10.0,
+                "Aggro %",
+                -15.0
+            ]
+        },
+        "source": [
+            [
+                "Porgy",
+                163,
+                "Lunagent Cliff Base",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Twilight Sakura Dagger",
+        "origin": 2,
+        "base": 130.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ASPD",
+                400.0,
+                "Attack MP Recovery",
+                6.0
+            ]
+        },
+        "source": [
+            [
+                "Amalgam",
+                140,
+                "Twilight Sakura Castle: Top",
+                []
+            ],
+            [
+                "Amalgam",
+                160,
+                "Twilight Sakura Castle: Top",
+                []
+            ],
+            [
+                "Amalgam",
+                180,
+                "Twilight Sakura Castle: Top",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Hefty Knife",
+        "origin": 2,
+        "base": 138.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "STR",
+                4.0,
+                "Critical Rate",
+                4.0,
+                "Critical Damage",
+                4.0
+            ]
+        },
+        "source": [
+            [
+                "Hunky Chocogato",
+                172,
+                "Chocolate Reservoir",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Demon Empress Dagger",
+        "origin": 2,
+        "base": 150.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Magic Pierce %",
+                5.0,
+                "Critical Rate",
+                10.0,
+                "Evasion Recharge %",
+                15.0
+            ]
+        },
+        "source": [
+            [
+                "Venena Metacoenubia",
+                185,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                195,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                205,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                215,
+                "Neo Plastida",
+                []
+            ],
+            [
+                "Venena Metacoenubia",
+                235,
+                "Neo Plastida",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Fallen Angel Dagger",
+        "origin": 2,
+        "base": 150.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "ATK %",
+                3.0,
+                "Critical Damage",
+                3.0,
+                "Recoil %",
+                0.01
+            ]
+        },
+        "source": [
+            [
+                "Bubble Bogey",
+                177,
+                "Barbaros Corridor",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Kitchen Knife",
+        "origin": 2,
+        "base": 150.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            185,
+            92,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "% stronger against Earth",
+                5.0,
+                "Earth resistance %",
+                10.0,
+                "Aggro %",
+                -15.0
+            ]
+        },
+        "source": [
+            [
+                "Tomaton",
+                170,
+                "Phasma Forest: Area 1",
+                []
+            ],
+            [
+                "Tomaton",
+                171,
+                "Phasma Forest: Area 2",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Life Branch Dagger",
+        "origin": 2,
+        "base": 150.0,
+        "stab": 0.0,
+        "pot": 0,
+        "amount": [
+            185,
+            92,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "Natural HP Regen %",
+                10.0,
+                "MaxHP %",
+                20.0,
+                "Stability %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Arigazella",
+                180,
+                "Movere Specula",
+                []
+            ],
+            [
+                "Arigazella",
+                183,
+                "Movere Specula",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Beak Knife",
+        "origin": 2,
+        "base": 157.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            190,
+            95,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "STR %",
+                1.0,
+                "ATK %",
+                1.0,
+                "Stability %",
+                -3.0,
+                "Unsheathe Attack %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Dodos",
+                192,
+                "Vulcani Foothills",
+                []
+            ],
+            [
+                "Dodos",
+                195,
+                "Vulcani Foothills",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scarlet Sakura Dagger",
+        "origin": 2,
+        "base": 170.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            180,
+            90,
+            "Mana"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy",
+                7.0,
+                "Critical Rate",
+                14.0,
+                "Evasion Recharge %",
+                10.0
+            ]
+        },
+        "source": [
+            [
+                "Dreamy Scarlet Sakura (Nightmare)",
+                220,
+                "Lush Falls : Upstream",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Scratch Knife",
+        "origin": 2,
+        "base": 170.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            200,
+            100,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                8.0,
+                "ASPD %",
+                20.0,
+                "Additional Melee %",
+                50.0,
+                "Additional Magic %",
+                50.0
+            ]
+        },
+        "source": [
+            [
+                "Nix",
+                200,
+                "Illuminare City: Route 1 (190-210)",
+                []
+            ],
+            [
+                "Nix",
+                200,
+                "Illuminare City: Route 2 (190-210)",
+                []
+            ],
+            [
+                "Nix",
+                200,
+                "Illuminare City: Route 3 (190-210)",
+                []
+            ],
+            [
+                "Nix",
+                202,
+                "Illuminare City: Route 3 (190-210)",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Steel Leaf Knife",
+        "origin": 1,
+        "base": 178.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                5.0,
+                "Fire resistance %",
+                10.0,
+                "Long Range Damage %",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                10800,
+                "Fallen in Fall",
+                30,
+                "Blunt Knife",
+                40,
+                "Dark Red Crystal",
+                20,
+                "Brassozard Claw",
+                2
+            ]
+        }
+    },
+    {
+        "name": "Rock Fang Dagger",
+        "origin": 2,
+        "base": 179.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            130,
+            65,
+            "Metal"
+        ],
+        "stats": {},
+        "source": [
+            [
+                "Stone",
+                139,
+                "Forgotten Cave",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Dagger III",
+        "origin": 2,
+        "base": 183.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                300.0,
+                "Evasion Recharge %",
+                14.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box V",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Corroded Dragon Claw Sword",
+        "origin": 2,
+        "base": 183.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            210,
+            105,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Aggro %",
+                20.0,
+                "Attack MP Recovery",
+                10.0,
+                "Reduce Dmg (Floor) %",
+                30.0
+            ]
+        },
+        "source": [
+            [
+                "Corroded Dragist",
+                212,
+                "Stairway to Vital Point",
+                []
+            ],
+            [
+                "Corroded Dragist",
+                214,
+                "Stairway to Vital Point",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Pearl Sakura Dagger",
+        "origin": 1,
+        "base": 200.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "MaxMP",
+                250.0,
+                "Physical Resistance %",
+                10.0,
+                "Magic Resistance %",
+                15.0,
+                "Aggro %",
+                -20.0
+            ]
+        },
+        "source": [
+            [
+                "NPC",
+                0,
+                "Sofya City: Blacksmith",
+                []
+            ]
+        ],
+        "recipe": {
+            "lvl": 0,
+            "diff": 0,
+            "mats": [
+                "Spina",
+                2000,
+                "Fine Sake (Pearl Sakura)",
+                25,
+                "Sinister Origami",
+                1,
+                "Torn Paper Crane",
+                1,
+                "Metal",
+                180
+            ]
+        }
+    },
+    {
+        "name": "Anger Knife",
+        "origin": 2,
+        "base": 219.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            235,
+            117,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                20.0,
+                "Aggro %",
+                80.0,
+                "Anticipate %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Anchorsea",
+                232,
+                "Seabed",
+                []
+            ],
+            [
+                "Anchorsea",
+                234,
+                "Seabed",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Melting Knife",
+        "origin": 2,
+        "base": 234.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            245,
+            122,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Physical Pierce %",
+                5.0,
+                "Water resistance %",
+                -15.0,
+                "% stronger against Neutral",
+                5.0,
+                "Guard Break %",
+                5.0
+            ]
+        },
+        "source": [
+            [
+                "Magmanus",
+                248,
+                "Perdida Wasteland",
+                []
+            ],
+            [
+                "Magmanus",
+                250,
+                "Perdida Wasteland",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dewclaw Dagger",
+        "origin": 2,
+        "base": 236.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            190,
+            95,
+            "Beast"
+        ],
+        "stats": {
+            "General": [
+                "Critical Rate",
+                15.0,
+                "Critical Damage %",
+                -1.0
+            ]
+        },
+        "source": [
+            [
+                "Ragus",
+                158,
+                "Manor of Surprises",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Anniv Festive Dagger IV",
+        "origin": 2,
+        "base": 242.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            250,
+            125,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "CSPD",
+                400.0,
+                "Evasion Recharge %",
+                16.0,
+                "Tumble Unavailable",
+                1.0
+            ]
+        },
+        "source": [
+            [
+                "Anniv Equipment Box VII",
+                null,
+                "N/A",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Dagger of Grace",
+        "origin": 2,
+        "base": 242.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            250,
+            125,
+            "Wood"
+        ],
+        "stats": {
+            "General": [
+                "MaxHP",
+                1000.0,
+                "MaxMP",
+                200.0,
+                "Aggro %",
+                -30.0
+            ]
+        },
+        "source": [
+            [
+                "Apapat",
+                246,
+                "Little Shrine of Grace: Area 1",
+                []
+            ],
+            [
+                "Apapat",
+                247,
+                "Little Shrine of Grace: Area 2",
+                []
+            ],
+            [
+                "Apapat",
+                248,
+                "Little Shrine of Grace: Area 3",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Frog Warrior Dagger",
+        "origin": 2,
+        "base": 250.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            255,
+            127,
+            "Metal"
+        ],
+        "stats": {
+            "General": [
+                "Accuracy %",
+                5.0,
+                "Aggro %",
+                -10.0,
+                "Short Range Damage %",
+                1.0,
+                "Motion Speed %",
+                3.0
+            ],
+            "Bowgun only": [
+                "CSPD %",
+                20.0
+            ],
+            "1-Handed Sword only": [
+                "Critical Rate %",
+                20.0
+            ]
+        },
+        "source": [
+            [
+                "Zapo",
+                246,
+                "Puerta Islands: Adit",
+                []
+            ],
+            [
+                "Zapo",
+                256,
+                "Puerta Islands: Adit",
+                []
+            ],
+            [
+                "Zapo",
+                266,
+                "Puerta Islands: Adit",
+                []
+            ],
+            [
+                "Zapo",
+                276,
+                "Puerta Islands: Adit",
+                []
+            ],
+            [
+                "Zapo",
+                296,
+                "Puerta Islands: Adit",
+                []
+            ]
+        ],
+        "recipe": ""
+    },
+    {
+        "name": "Sakura Branch Dagger",
+        "origin": -1,
+        "base": 300.0,
+        "stab": 0,
+        "pot": 0,
+        "amount": [
+            0,
+            0,
+            ""
+        ],
+        "stats": {
+            "General": [
+                "DEX %",
+                1.0,
+                "Physical Pierce %",
+                2.0,
+                "Magic Pierce %",
+                3.0
+            ]
+        },
+        "source": [],
+        "recipe": ""
+    }
+]
