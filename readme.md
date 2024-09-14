@@ -1,6 +1,6 @@
 # Equipment Data Structure Doc
 
-The structure is so dumb, i lost a braincell everytime i tried to read the shitty code structures.
+The structure is so dumb, i lost a braincell everytime i tried to read it!
 
 ## Contents Table
 
