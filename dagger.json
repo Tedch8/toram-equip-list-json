@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data":[
     {
         "name": "Goddess's Dagger",
         "origin": 2,
@@ -2793,4 +2795,4 @@
         "source": [],
         "recipe": ""
     }
-]
+]}

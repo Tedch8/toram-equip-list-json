@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data":[
     {
         "name": "Metal Ninjutsu Scroll",
         "origin": -1,
@@ -179,4 +181,4 @@
         "source": [],
         "recipe": ""
     }
-]
+]}

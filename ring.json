@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data":[
     {
         "name": "Adamantite Charmstone",
         "origin": 1,
@@ -7127,4 +7129,4 @@
         ],
         "recipe": ""
     }
-]
+]}

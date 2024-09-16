@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data":[
     {
         "name": "Belt Eyepatch",
         "origin": 1,
@@ -41942,4 +41944,4 @@
             ]
         }
     }
-]
+]}

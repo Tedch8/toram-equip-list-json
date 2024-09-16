@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data":[
     {
         "name": "9th Anniv Katana",
         "origin": 1,
@@ -11807,4 +11809,4 @@
             ]
         }
     }
-]
+]}

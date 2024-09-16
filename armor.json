@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data": [
     {
         "name": "Fighter Uniform",
         "origin": 2,
@@ -16968,4 +16970,4 @@
         ],
         "recipe": ""
     }
-]
+]}

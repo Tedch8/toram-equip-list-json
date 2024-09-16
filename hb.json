@@ -1,4 +1,6 @@
-[
+{
+    "version": 16092024,
+    "data": [
     {
         "name": "9th Anniv Halberd",
         "origin": 1,
@@ -12989,4 +12991,4 @@
         ],
         "recipe": ""
     }
-]
+]}
