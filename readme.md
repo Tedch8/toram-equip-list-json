@@ -1,12 +1,12 @@
-# Equipment Data Structure Doc
+# Equipment Data Doc
 
-The structure is so dumb, i lost a braincell everytime i tried to read the shitty code structures.
+The structure is so dumb, i lost a braincell everytime i tried to read it!
 
 ## Contents Table
 
 ---
 
-- [Equipment Data Structure Doc](#equipment-data-structure-doc)
+- [Equipment Data Doc](#equipment-data-doc)
   - [Contents Table](#contents-table)
   - [Json Structure and Type](#json-structure-and-type)
   - [Json Data Docs and Definition](#json-data-docs-and-definition)
