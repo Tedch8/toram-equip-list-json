@@ -1,6 +1,6 @@
 # Equipment Data Doc
 
-The structure is so dumb, i lost a braincell everytime i tried to read it!
+The structure is so dumb, i lost a braincell everytime i tried to read it! and i read it JASON, and there's nothing you can do about it!
 
 ## Contents Table
 
@@ -8,13 +8,18 @@ The structure is so dumb, i lost a braincell everytime i tried to read it!
 
 - [Equipment Data Doc](#equipment-data-doc)
   - [Contents Table](#contents-table)
-  - [Json Structure and Type](#json-structure-and-type)
-  - [Json Data Docs and Definition](#json-data-docs-and-definition)
+  - [JSON Version](#json-version)
+  - [JSON Structure and Type](#json-structure-and-type)
+  - [JSON Data Docs and Definition](#json-data-docs-and-definition)
   - [How To Use](#how-to-use)
 
 ---
 
-## Json Structure and Type
+## JSON Version
+
+The data includes a version, formatted as a date string ("DD-MM-YY"), to track the last update. This version is used for caching purposes to determine whether new data needs to be fetched from client local storage.
+
+## JSON Structure and Type
 
 All Equipment including armor, additional gear and ring has the same data structures and typing, for examples down below:
 
@@ -44,7 +49,7 @@ To understand key, label, object and array/list definition, check out [Json Data
 
 ---
 
-## Json Data Docs and Definition
+## JSON Data Docs and Definition
 
 - Name => (Items name or label)
 - Origin => (Items origin either NPC, Player, or Drop {0: Player, 1: NPC, 2: Drop})
