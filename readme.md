@@ -299,9 +299,7 @@ As for Crysta or Xtall the key of object can be defined as:
 
    &nbsp;
 
-   Modulo operator could be used on Recipe "mats" to determined which one label/name and quantity, or this also can be done by using while loop with +2 increment.
-
-   +2 increment could be done because the "mats" array length will absolutely have even length.
+   The modulo operator can be used on the Recipe's "mats" array to determine the label/name and quantity of each item. Alternatively, this can be achieved using a while loop with a +2 increment. The +2 increment works because the "mats" array length is always even.
 
    Examples:
 
